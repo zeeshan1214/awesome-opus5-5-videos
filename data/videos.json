@@ -1,71 +1,5 @@
 [
  {
-  "slug": "ajith-io-890146",
-  "author": "ajith_io",
-  "author_url": "https://x.com/ajith_io",
-  "post_url": "https://x.com/ajith_io/status/2103449416325890146",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/ajith-io-890146/original.89fa354170.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/ajith-io-890146",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "koldo2k-778767",
-  "author": "koldo2k",
-  "author_url": "https://x.com/koldo2k",
-  "post_url": "https://x.com/koldo2k/status/2103129343253778767",
-  "category": "explainer",
-  "tech_tags": [
-   "canvas",
-   "ai-image"
-  ],
-  "prompt": "Build a looping \"infinite zoom\" animation, After Effects style: the camera\ntravels from landscape to landscape by flying through vintage objects.\n\nLOOK: vintage collage realistic photo landscapes + black & white newspaper\ncutout objects (halftone, white paper border, soft shadow). Film grain,\nvignette, light flicker.\n\nWORLDS (loop): snowy mountains → pocket watch (swinging on its chain) →\nsea cliffs → box camera lens → desert dunes → magnifying glass →\nmisty lake → hand mirror → back to start.\nExtras: floating hat, phone, umbrella, gramophone, key; a 1950s man walking\ntoward the watch; a whale swimming across the cliffs sky.\n\nHOW:\n- Generate everything via the Magnific MCP (Seedream 5 Pro landscapes,\n  GPT 2.5 transparent cutouts, depth maps, Kling 2.5 animation, Lyria 3\n  music). List the generations + credit cost and wait for my OK first.\n- Split each landscape into 3 depth layers from its depth map and fill the\n  hidden areas. Parallax: layer scale = camera^Z, Z between 0.45 and 1.22.\n- Each portal's glass holds the next world; cut seamlessly when it fills\n  the frame.\n- Constant speed: exponential zoom to a fixed point, each segment's duration\n  proportional to log(zoom). Verify the cuts frame by frame.\n- Man & whale: generate on pure green (#00B140), animate in place with\n  Kling, key out every frame, build a seamless loop (ping-pong if needed).\n- Cutouts animate at 15 fps (on twos).\n- 20 s loop, 1920×1080, 30 fps. Music: 96 BPM, cut to exactly 8 bars = 20 s.\n\nDELIVER: an interactive artifact (viewer, AE-style timeline, music +\nMP4 download) and a rendered MP4 with music under 30 MB.\nShow me screenshots before each expensive step.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/koldo2k-778767/original.51bfc0d3f6.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/koldo2k-778767",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "leonabboud-358051",
-  "author": "leonabboud",
-  "author_url": "https://x.com/leonabboud",
-  "post_url": "https://x.com/leonabboud/status/2103576084499358051",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/leonabboud-358051/original.8b3ac2b6c9.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/leonabboud-358051",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "himanshutwtxs-882858",
-  "author": "himanshutwtxs",
-  "author_url": "https://x.com/himanshutwtxs",
-  "post_url": "https://x.com/himanshutwtxs/status/2103495232637882858",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/himanshutwtxs-882858/original.fe5807bfeb.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/himanshutwtxs-882858",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "ror-fly-880547",
   "author": "Ror_Fly",
   "author_url": "https://x.com/Ror_Fly",
@@ -94,23 +28,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/twoclipping-402193/original.9c664f011f.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/twoclipping-402193",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "kenn-937232",
-  "author": "kenn",
-  "author_url": "https://x.com/kenn",
-  "post_url": "https://x.com/kenn/status/2103337314021937232",
-  "category": "motion",
-  "tech_tags": [
-   "shader",
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/kenn-937232/original.c7a5f98e46.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/kenn-937232",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -323,22 +240,6 @@
   "has_remake": true
  },
  {
-  "slug": "ayushunleashed-084755",
-  "author": "ayushunleashed",
-  "author_url": "https://x.com/ayushunleashed",
-  "post_url": "https://x.com/ayushunleashed/status/2103794962257084755",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/ayushunleashed-084755/original.b34486caf9.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/ayushunleashed-084755",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "gandamu-ml-220530",
   "author": "gandamu_ml",
   "author_url": "https://x.com/gandamu_ml",
@@ -370,39 +271,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/ishaaqahamed-107563/original.56f7461a25.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/ishaaqahamed-107563",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "dannnnnok-716687",
-  "author": "Dannnnnok",
-  "author_url": "https://x.com/Dannnnnok",
-  "post_url": "https://x.com/Dannnnnok/status/2103846630088716687",
-  "category": "3d",
-  "tech_tags": [
-   "threejs",
-   "canvas"
-  ],
-  "prompt": "I’m curious to see how strong you are as a motion designer. To prove it, create a polished 15-second animated graphic video that showcases your motion design skills. This piece will be presented to 10,000 people on X, so make it visually compelling, professional, and memorable. Take full creative freedom and make the strongest result you can",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/dannnnnok-716687/original.ae4ba7f3d5.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/dannnnnok-716687",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "codestackr-328129",
-  "author": "codeSTACKr",
-  "author_url": "https://x.com/codeSTACKr",
-  "post_url": "https://x.com/codeSTACKr/status/2103656229717328129",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/codestackr-328129/original.9c3270d22b.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/codestackr-328129",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -489,24 +357,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/0xfemyn-137833/original.a64edb613d.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/0xfemyn-137833",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "misbahsy-882277",
-  "author": "MisbahSy",
-  "author_url": "https://x.com/MisbahSy",
-  "post_url": "https://x.com/MisbahSy/status/2103831201114882277",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "css"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/misbahsy-882277/original.48e12347f3.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/misbahsy-882277",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -613,23 +463,6 @@
   "has_remake": true
  },
  {
-  "slug": "sudeepsd-158453",
-  "author": "sudeepsd_",
-  "author_url": "https://x.com/sudeepsd_",
-  "post_url": "https://x.com/sudeepsd_/status/2103776623548158453",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video of what you know about \n@tryflexprice\n that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/sudeepsd-158453/original.f9274deda4.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/sudeepsd-158453",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "nolkeeg-635633",
   "author": "nolkeeg",
   "author_url": "https://x.com/nolkeeg",
@@ -643,23 +476,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/nolkeeg-635633/original.8a27593d3a.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/nolkeeg-635633",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "wallt-white-942703",
-  "author": "wallt_white",
-  "author_url": "https://x.com/wallt_white",
-  "post_url": "https://x.com/wallt_white/status/2103750353585942703",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "particles"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/wallt-white-942703/original.2300498ba3.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/wallt-white-942703",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -698,24 +514,6 @@
   "has_remake": true
  },
  {
-  "slug": "0xscoffie-779830",
-  "author": "0xScoffie",
-  "author_url": "https://x.com/0xScoffie",
-  "post_url": "https://x.com/0xScoffie/status/2103779700954779830",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "gsap"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. it should be about\nAluta | Ni Mbayaaaa - You control the vibe!\n来自 aluta.ke",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/0xscoffie-779830/original.5358eb02bc.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/0xscoffie-779830",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "lukasersil-726495",
   "author": "lukasersil",
   "author_url": "https://x.com/lukasersil",
@@ -731,40 +529,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/lukasersil-726495/original.2886d94586.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/lukasersil-726495",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "raphaelaubryy-190360",
-  "author": "RaphaelAubryy",
-  "author_url": "https://x.com/RaphaelAubryy",
-  "post_url": "https://x.com/RaphaelAubryy/status/2103416909857190360",
-  "category": "3d",
-  "tech_tags": [
-   "shader",
-   "canvas",
-   "css"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/raphaelaubryy-190360/original.a45924cf0c.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/raphaelaubryy-190360",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "levabashidze-184909",
-  "author": "levabashidze",
-  "author_url": "https://x.com/levabashidze",
-  "post_url": "https://x.com/levabashidze/status/2103786742520184909",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. dont ask just make",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/levabashidze-184909/original.4ee25702ab.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/levabashidze-184909",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -925,22 +689,6 @@
   "has_remake": true
  },
  {
-  "slug": "theattnlayer-471834",
-  "author": "theattnlayer",
-  "author_url": "https://x.com/theattnlayer",
-  "post_url": "https://x.com/theattnlayer/status/2103776779064471834",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume, go all out, its about the attention layer",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/theattnlayer-471834/original.f530eb60aa.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/theattnlayer-471834",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "itisrazak-332386",
   "author": "itisRazak",
   "author_url": "https://x.com/itisRazak",
@@ -1006,42 +754,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/kloss-xyz-941143/original.c77fc2a47b.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/kloss-xyz-941143",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "thismacapital-375808",
-  "author": "thismacapital",
-  "author_url": "https://x.com/thismacapital",
-  "post_url": "https://x.com/thismacapital/status/2103773635714375808",
-  "category": "motion",
-  "tech_tags": [
-   "svg",
-   "gsap"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/thismacapital-375808/original.70c16e9f53.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/thismacapital-375808",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "ndhabarde11-686104",
-  "author": "ndhabarde11",
-  "author_url": "https://x.com/ndhabarde11",
-  "post_url": "https://x.com/ndhabarde11/status/2103832593355686104",
-  "category": "motion",
-  "tech_tags": [
-   "shader",
-   "canvas",
-   "svg",
-   "gsap"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video in portrait mode that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/ndhabarde11-686104/original.315f668d78.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/ndhabarde11-686104",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -1181,24 +893,6 @@
   "has_remake": true
  },
  {
-  "slug": "gabrielbuzziv-057430",
-  "author": "gabrielbuzziv",
-  "author_url": "https://x.com/gabrielbuzziv",
-  "post_url": "https://x.com/gabrielbuzziv/status/2103590703289057430",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "svg",
-   "css"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/gabrielbuzziv-057430/original.b72d77fd65.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/gabrielbuzziv-057430",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "chatgptastra-807540",
   "author": "ChatGptAstra",
   "author_url": "https://x.com/ChatGptAstra",
@@ -1229,38 +923,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/kloss-xyz-067876/original.ebb20ee088.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/kloss-xyz-067876",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "eyishazyer-129686",
-  "author": "eyishazyer",
-  "author_url": "https://x.com/eyishazyer",
-  "post_url": "https://x.com/eyishazyer/status/2103816865852129686",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/eyishazyer-129686/original.09370fe43f.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/eyishazyer-129686",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "stephanlivera-470926",
-  "author": "stephanlivera",
-  "author_url": "https://x.com/stephanlivera",
-  "post_url": "https://x.com/stephanlivera/status/2103315922098470926",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/stephanlivera-470926/original.92d200d8cd.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/stephanlivera-470926",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -1401,41 +1063,6 @@
   "has_remake": true
  },
  {
-  "slug": "hqmank-241156",
-  "author": "hqmank",
-  "author_url": "https://x.com/hqmank",
-  "post_url": "https://x.com/hqmank/status/2103831140033241156",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "gsap"
-  ],
-  "prompt": "Make a dynamic 20-second motion graphics launch video for my open-source project jev-browser-skill ('Give a site. Write a goal. Jev clicks.'), like it's the hero video on its GitHub README. Go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/hqmank-241156/original.8d2dae6259.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/hqmank-241156",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "iamtanzil-675031",
-  "author": "iamtanzil_",
-  "author_url": "https://x.com/iamtanzil_",
-  "post_url": "https://x.com/iamtanzil_/status/2103820321673675031",
-  "category": "3d",
-  "tech_tags": [
-   "threejs",
-   "gsap"
-  ],
-  "prompt": "# Auren Header\n\nA cinematic, scroll-scrubbed 3D hero header for the luxury/fantasy brand \"AUREN\" where a full-screen background video plays frame-by-frame as the user scrolls through a 500vh section, with sequential timed overlays (title, description, feature cards, final title) revealing themselves at specific video timestamps.\n\n## Tech stack\n- React 18+ with \"use client\" directive (Next.js App Router compatible)\n- framer-motion (all overlay entrance/exit animations, AnimatePresence, staggered per-character reveals)\n- gsap + gsap/ScrollTrigger (scroll-driven scrubbing that maps scroll progress to video.currentTime)\n- No icon library used; the arrow is a literal → character and the card overlay button is a literal + character\n\n## Fonts & global styles\n- Import via: `https://fonts.googleapis.com/css2?family=Italiana&family=Inter+Tight:wght@400;500&display=swap`\n- Display / serif font: 'Italiana', serif — used for the AUREN logo, hero titles, card numbers, and card titles.\n- Body / sans font: 'Inter Tight', sans-serif — weights 400 and 500 — used for nav text, descriptions, menu items, card subtitles/descriptions/buttons.\n- box-sizing: border-box applied to the whole section and all descendants.\n- Scope all styles to the section; do NOT set global body/html rules.\n\n## Section container\n- Root: `.auren-header-section` — position: relative; width: 100%; height: 500vh; background: #FEFFFE. The 500vh height is what creates the scroll runway for scrubbing.\n- Inner sticky wrapper: `.auren-sticky-content` — position: sticky; top: 0; width: 100%; height: 100vh; overflow: hidden. Everything visible lives inside this sticky viewport.\n\n## Structure, section by section\n1. **Background video** `.auren-video-bg`: position absolute; inset 0; width/height 100%; object-fit: cover; object-position: center; z-index: 1. Element is `<video muted playsInline>` (NOT autoplay — playback is driven by scroll). Source: `https://cdn.jiro.build/Header%20Section/Auren3d/output.mp4` (type video/mp4). On ≤768px, object-position becomes 70% center.\n2. **Navigation** `.auren-nav`: position absolute; top 0; left 0; width 100%; padding 40px 60px; display flex; justify-content space-between; align-items flex-start; z-index 2.\n   - Logo `.auren-logo`: text \"AUREN\", Italiana 400, 26px, line-height 1, color #000000, letter-spacing 0.05em.\n   - Center nav `.auren-nav-center`: absolutely centered (left 50%, translateX(-50%)); display flex; gap 15vw. Two `.auren-nav-text` blocks (Inter Tight 500, 16px, line-height 1.2, uppercase, color #000000, centered): first reads \"COSMIC ARMORION\" / \"FORGED IN LIGHT\" (two lines via <br/>); second reads \"CHAPTER 07\" / \"CELESTIAL ARCHIVE\".\n   - Hamburger `.auren-menu-btn`: flex column; align-items flex-end; gap 5px; transparent, no border. Three `.auren-menu-line` bars, height 2px, background #161414; widths 22px / 15px / 22px. On hover the middle bar animates to 22px width (transition width 0.3s ease).\n   - Dropdown `.auren-menu-dropdown` (toggled by hamburger): position absolute; top 60px; right 60px; width 150px; background rgba(255,255,255,0.8); backdrop-filter blur(10px); border-radius 8px; padding 10px; flex column gap 10px; border 1px solid rgba(0,0,0,0.1); z-index 20. Items `.auren-menu-item` (Inter Tight 500, 16px, #000, padding 8px, border-radius 4px, right-aligned, hover background rgba(0,0,0,0.05)): \"Home\", \"About\", \"Contact\".\n3. **Timed hero title (initial, shown while videoTime < 2.5s)** `.auren-hero-title`: position absolute; left 60px; bottom 80px; max-width 400px; Italiana 400; 90px; line-height 1.13; color #000000; z-index 2. Words: \"RISE\", \"OF THE\", \"ASTRAL\", \"GUARD\", \"MAN\" — each on its own line (via <br/>), rendered per-character for the reveal animation.\n4. **Timed hero description (initial, videoTime < 2.5s)** `.auren-hero-desc`: position absolute; right 60px; bottom 80px; max-width 320px; Inter Tight 400; 20px; line-height 1.4; color #2E2A2A; z-index 2. Text verbatim: \"Enter a realm where ancient artistry meets futuristic armor. Discover legendary warriors, cosmic relics\".\n5. **Feature cards overlay (shown while 3s ≤ videoTime ≤ 4s)** `.auren-cards-container`: position absolute; bottom 100px; left 0; width 100%; flex; justify-content center; gap 60px; z-index 10. Two `.auren-card`s (each 560px × 320px; background linear-gradient(135deg, rgba(250,246,240,0.95), rgba(240,235,225,0.95)); border-radius 24px; padding 32px; flex; gap 30px; border 1px solid rgba(200,180,150,0.3); box-shadow 0 12px 40px rgba(0,0,0,0.15)):\n     - Card content column: header row with number (Italiana 24px, #000) + a 30px × 1px line rgba(0,0,0,0.2); subtitle (Inter Tight 10px, letter-spacing 0.1em, uppercase, #666); title (Italiana 32px, line-height 1, #000, each word forced onto its own line via `.auren-br`); description (Inter Tight 12px, line-height 1.5, #444, margin-bottom auto); button row (`.auren-card-btn`, cursor pointer, color #000) with `.auren-card-btn-text` (Inter Tight 11px, weight 500, letter-spacing 0.05em) followed by a 14px →.\n     - Card image `.auren-card-image`: 240px wide, full height, border-radius 16px, background-image from URL center/cover, with a `.auren-card-plus` badge bottom-right (32px circle, background #111, color #FFF, contains \"+\").\n     - Card 1: number \"01\", subtitle \"THE WARRIOR\", title \"ASTRAL GUARDIAN\", desc \"Forged in celestial alloy, the Guardian represents a balance of precision, power, and ancient craft.\", button \"EXPLORE GUARDIAN\", image `https://cdn.jiro.build/Header%20Section/Auren3d/auren1.png`.\n     - Card 2: number \"02\", subtitle \"THE ARMOR\", title \"FORGED IN LIGHT\", desc \"Layered armor, luminous cores, and hand-forged celestial details built for the unknown.\", button \"DISCOVER THE ARMOR\", image `https://cdn.jiro.build/Header%20Section/Auren3d/auren2.png`.\n6. **Final hero title (shown while videoTime ≥ 5s)** — same `.auren-hero-title` styling but overridden inline to right: 60px; left: auto; text-align: right. Words: \"THE FINAL\", \"CHAPTER\", \"UNFOLDS\" (each on its own line).\n7. **Final hero description (videoTime ≥ 5s)** — same `.auren-hero-desc` styling overridden inline to left: 60px; right: auto. Text verbatim: \"Witness the culmination of celestial engineering and ancient magic. The archive awaits your discovery.\"\n\n## Assets\n- Video: `https://cdn.jiro.build/Header%20Section/Auren3d/output.mp4`\n- Card 1 image: `https://cdn.jiro.build/Header%20Section/Auren3d/auren1.png`\n- Card 2 image: `https://cdn.jiro.build/Header%20Section/Auren3d/auren2.png`\n\n## Animations\n- **Scroll-scrub video** (signature effect): register ScrollTrigger and map scroll progress across the 500vh section to the video's currentTime, also storing it in state so overlays can appear/disappear at timestamps.\n```tsx\nst = ScrollTrigger.create({\n  trigger: \".auren-header-section\",\n  start: \"top top\",\n  end: \"bottom bottom\",\n  scrub: 1.5,\n  onUpdate: (self) => {\n    if (video.duration) {\n      const time = self.progress * video.duration;\n      video.currentTime = time;\n      setVideoTime(time);\n    }\n  },\n});\n```\nInitialise only after the video's metadata is available (readyState >= 1 or on the \"loadedmetadata\" event) and kill the trigger on unmount.\n- **Nav entrance**: fade + slide down, initial { opacity: 0, y: -20 } → { opacity: 1, y: 0 }, duration 0.8, ease \"easeOut\".\n- **Menu dropdown**: AnimatePresence, initial/exit { opacity: 0, y: -10, scale: 0.95 } → animate { opacity: 1, y: 0, scale: 1 }, duration 0.2.\n- **Per-character title reveal** (both titles): parent variant staggers children by 0.05 (initial title also delays children by 0.3); each character starts { opacity: 0, y: 50 } and animates to { opacity: 1, y: 0 } with duration 0.6 ease \"easeOut\". Each word is wrapped in an inline-block, overflow:hidden span so letters wipe up from below. Titles exit via AnimatePresence (initial title exits { opacity: 0, y: -50 } over 0.5s).\n- **Description clip reveal**: initial { opacity: 0, clipPath: 'inset(100% 0 0 0)' } → animate { opacity: 1, clipPath: 'inset(0% 0 0 0)' }, duration 1, initial one delayed 0.8s, both ease \"easeOut\"; matching clip-path exit.\n- **Cards overlay**: container initial { opacity: 0, y: 100 } → { opacity: 1, y: 0 }, exit { opacity: 0, y: -150 }, duration 0.6 ease \"easeInOut\"; each card additionally slides { y: 50, opacity: 0 } → { y: 0, opacity: 1 } with staggered delays 0.1 and 0.2, exit { y: -100, opacity: 0 }.\n- All overlays are gated by videoTime windows: titles/desc #1 for time < 2.5, cards for 3 ≤ time ≤ 4, titles/desc #2 for time ≥ 5.\n\n## Responsive behavior\n- **≤1200px**: center nav gap shrinks to 5vw; cards gap 20px with 20px side padding; cards 450px wide, padding 24px, gap 20px; card image 180px.\n- **≤1024px**: nav padding 30px 40px; hero title left 40px / font-size 70px; hero desc right 40px / bottom 60px / 18px; center nav hidden; dropdown right 40px top 50px; cards stack vertically centered, gap 20px, bottom 40px; cards full width (max 560px) height 280px; card image 240px.\n- **≈768px**: nav padding 20px with center-aligned items; hero title and desc hidden (display none); video object-position 70% center; dropdown right 20px top 50px; cards become position relative with margin-top 100px, gap 16px, 16px side padding; each card full width, height auto, flex-direction column-reverse, padding 20px, gap 16px; card image full width height 180px; card title 28px; `.auren-br` forced-line-break spans hidden.\n\n## Key design principles\n- Editorial luxury aesthetic: serif Italiana display type against clean white, minimal chrome, generous negative space.\n- Cinematic scroll-scrubbing is the hero interaction — the video is a timeline, not autoplay.\n- Content is choreographed to video timestamps, not scroll position directly.\n- High-contrast black text on light video for legibility; frosted-glass dropdown for depth.\n- Per-character mask reveals give the type a premium, deliberate entrance.\n\n## Common mistakes to avoid\n- Do NOT autoplay the video — keep it muted + playsInline and drive currentTime from ScrollTrigger.\n- Do NOT register ScrollTrigger at module top level without a window guard in an SSR/Next.js environment.\n- Do NOT forget the 500vh root height + sticky inner wrapper; without both, there is no scroll runway and the video won't scrub.\n- Keep every AnimatePresence child keyed so exit animations fire correctly.\n- Initialise the ScrollTrigger only after video metadata loads, and kill it on unmount to avoid leaks.\n\n## Page title\nAUREN — Rise of the Astral Guardman\n\n## Integration (build-safety — do not skip)\n- Add this section as a **new** component file with a unique name. Don't edit or overwrite any existing file except to add its import and render it.\n- Render it **after** all existing sections; keep every previously built section exactly as-is — never replace or remove them.\n- If no project exists, create a minimal React + Tailwind app; if one exists, use it as-is — don't re-scaffold or change the Tailwind/build config or version.\n- Keep it self-contained: scope its fonts and any resets to this section; never set global `body`/`html`/`*` styles or a global font.\n- Install only the libraries this section names.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/iamtanzil-675031/original.f170ee8ea3.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/iamtanzil-675031",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "gouthamjay8-910269",
   "author": "gouthamjay8",
   "author_url": "https://x.com/gouthamjay8",
@@ -1551,22 +1178,6 @@
   "has_remake": true
  },
  {
-  "slug": "vfnuness-704448",
-  "author": "vfnuness",
-  "author_url": "https://x.com/vfnuness",
-  "post_url": "https://x.com/vfnuness/status/2103800512797704448",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/vfnuness-704448/original.c5dd089a94.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/vfnuness-704448",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "johnsavage-ai-427263",
   "author": "johnsavage_ai",
   "author_url": "https://x.com/johnsavage_ai",
@@ -1621,23 +1232,6 @@
   "has_remake": true
  },
  {
-  "slug": "polydao-566862",
-  "author": "polydao",
-  "author_url": "https://x.com/polydao",
-  "post_url": "https://x.com/polydao/status/2103783134206566862",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg"
-  ],
-  "prompt": "Make a dynamic [24]-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.\n\nOnly about [TOPIC]. Style: [BRAND COLORS], sound synced to the cuts.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/polydao-566862/original.f427415001.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/polydao-566862",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "ratheejaisal-154698",
   "author": "RatheeJaisal",
   "author_url": "https://x.com/RatheeJaisal",
@@ -1651,23 +1245,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/ratheejaisal-154698/original.506783e480.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/ratheejaisal-154698",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "visheshbaghell-119508",
-  "author": "VisheshBaghell",
-  "author_url": "https://x.com/VisheshBaghell",
-  "post_url": "https://x.com/VisheshBaghell/status/2103772327146119508",
-  "category": "motion",
-  "tech_tags": [
-   "svg",
-   "gsap"
-  ],
-  "prompt": "build me a product demo for my site using /brag skill. make sure to emphasize on all features",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/visheshbaghell-119508/original.6134847e7a.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/visheshbaghell-119508",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -1706,43 +1283,6 @@
   "has_remake": true
  },
  {
-  "slug": "zaqailo-835623",
-  "author": "zaqailo",
-  "author_url": "https://x.com/zaqailo",
-  "post_url": "https://x.com/zaqailo/status/2103768009017835623",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas",
-   "svg"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/zaqailo-835623/original.585efcaff4.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/zaqailo-835623",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "paukraft-585863",
-  "author": "paukraft",
-  "author_url": "https://x.com/paukraft",
-  "post_url": "https://x.com/paukraft/status/2103766223133585863",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "gsap"
-  ],
-  "prompt": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/paukraft-585863/original.8752cda985.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/paukraft-585863",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "aisongman-461057",
   "author": "aisongman",
   "author_url": "https://x.com/aisongman",
@@ -1757,89 +1297,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/aisongman-461057/original.b99a1a425c.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/aisongman-461057",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "mattiapomelli-229129",
-  "author": "mattiapomelli",
-  "author_url": "https://x.com/mattiapomelli",
-  "post_url": "https://x.com/mattiapomelli/status/2103757371357229129",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/mattiapomelli-229129/original.5706035469.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/mattiapomelli-229129",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "levon96-651291",
-  "author": "levon96",
-  "author_url": "https://x.com/levon96",
-  "post_url": "https://x.com/levon96/status/2103757157078651291",
-  "category": "3d",
-  "tech_tags": [
-   "threejs",
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/levon96-651291/original.1b50a44e3e.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/levon96-651291",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "roxsav2-073412",
-  "author": "RoxsaV2",
-  "author_url": "https://x.com/RoxsaV2",
-  "post_url": "https://x.com/RoxsaV2/status/2103749285846073412",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/roxsav2-073412/original.646486291a.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/roxsav2-073412",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "teslachartz-887985",
-  "author": "TeslaChartz",
-  "author_url": "https://x.com/TeslaChartz",
-  "post_url": "https://x.com/TeslaChartz/status/2103746486978887985",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/teslachartz-887985/original.9d0e5fa664.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/teslachartz-887985",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "blushpetal795-170220",
-  "author": "blushpetal795",
-  "author_url": "https://x.com/blushpetal795",
-  "post_url": "https://x.com/blushpetal795/status/2103744870041170220",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "Make a dynamic 15-second motion graphics video of me introducing myself to a recruiter. Use all the motion design skills you have, like it's your showreel for a resume. Go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/blushpetal795-170220/original.a9dabaf8d6.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/blushpetal795-170220",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -1945,22 +1402,6 @@
   "has_remake": true
  },
  {
-  "slug": "alexwtlf-981005",
-  "author": "alexwtlf",
-  "author_url": "https://x.com/alexwtlf",
-  "post_url": "https://x.com/alexwtlf/status/2103713416367981005",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "SCENE CONTEXT\nNight side of the Earth. A space station in orbit; 📷@mila is inside at a small round porthole, 📷@astronaut floats outside it on a tether, lit by the station's floodlight against black space and the dark Earth with its city lights. They clown for each other through the glass; a meteor flies into the sky behind him and crosses toward the Earth; she hammers the glass and screams to make him turn, and he answers with a heart; he begins a slow turn and the meteor hits while he is halfway round; she watches the impact with one tear. 25 seconds, seven cuts between two camera positions: OUTSIDE, looking at the window from space, and INSIDE, her own eyes looking out through the porthole.\n\nLOCATION MAP\nTHE WINDOW IS SMALL: a porthole about 50 cm across. Her head in its white cap takes up half of its diameter and her shoulders are wider than it; the astronaut's helmet alone is two thirds of its width; the whole window is a quarter of his height. A porthole, not a dome, not a bay window, one small circle in a huge wall of hull.\nTHE SHIP, INSIDE: the porthole set in a wall of white padded panels. Its inner ring is dark grey bolted metal with red-and-white striped segments at the lower left and lower right; a warm LED strip runs along the top of the ring inside. The interior is dim, blue-grey, a few small status lights, cable runs and a handrail at the edge of frame. The glass is thick and clear.\nTHE SHIP, OUTSIDE: the same porthole from space, a raised dark metal collar with bolts set into a white hull of quilted insulation panels with grey seams, many panels tall, dwarfing the window; a small white floodlight on a short stalk above the window, aimed down across the glass and out toward the astronaut; the interior glows warm through the glass, and the same red-and-white segments of the inner ring show through it.\nTHE EARTH: night side, black-blue, city lights in gold clusters and threads across the dark continents, a thin blue-green airglow line along the limb, stars above the limb. No sun, no daylight anywhere in the film.\nINSIDE view: the ring fills the edges of the frame. The Earth is not a ball: it is a huge gentle arc, its night surface filling the lower 65% of the window, the limb a shallow curve running above the centre of the window, lower on the left and higher on the right, with a thin blue-green airglow line along it and black star field above. The exact CENTRE of the window is dark Earth surface with city lights, just below the limb: that is where the impact lands. The astronaut floats at the LEFT edge of the window, upper-left, within the left third, about 3 m away, against the black sky and the limb, facing the window; he never crosses into the centre. The meteor crosses the black upper right and comes down-left to the centre. Her right gloved hand enters from the bottom-right edge.\nOUTSIDE view, close: 📷@mila behind the glass, the dim interior behind her; no Earth in frame; the Earth and the meteor are behind the camera, to screen left, and appear only as faint reflections on the glass.\nOUTSIDE view, wide (CUT 1 only): the camera 9 m away, almost side-on, 70 degrees off the window's axis. The hull is a wall on the LEFT third of the frame, top to bottom, seen nearly edge-on; the porthole in it at middle height, seen as an upright narrow oval, her face in profile through the glass; the astronaut in the CENTRE-RIGHT of the frame, in profile, facing the window on the left, four times the height of the window; the night Earth in the bottom third, black space and stars above.\nGeometry, fixed for the whole film: from outside, her right hand is on the screen-LEFT side, the astronaut is on the screen-RIGHT side, and the meteor and its impact are behind the outside camera to screen left, never in frame from outside.\n\nFIRST FRAME / BLOCKING\nOUTSIDE, wide, 9:16, the side view. Already in motion: both of 📷@astronaut's gloves are on the hull either side of the window's collar, his body straight out from the hull, his visor 30 cm from the glass; inside, 📷@mila's face is pressed to the glass, nose flattened against it, cheeks puffed, both palms flat on the glass either side of her face, laughing. Neither looks toward the camera; they look only at each other.\n\nFORMAT MODE\nSeven cuts.\n\nCUT 1, 0:00 to 0:03, OUTSIDE, wide side view:\nAt 0:00.5 he pushes off the hull with both hands, gently, and drifts straight back from the window toward screen right, slowly, at a constant speed, about 1.5 m over the cut, no further, his feet trailing, his body rolling a few degrees, the white tether uncoiling in a short lazy loop between his hip and the hull. He raises his right glove into a thumbs-up toward her and holds it. Inside, she pulls her face off the glass laughing, waves at him with one hand in the small window, wiggles her shoulders in a little dance, then puffs her cheeks again and presses her nose back to the glass. Her eyes stay on him. NO meteor in this cut; nothing in the sky but stars. Last frame: he hangs 1.5 m from the window, thumbs-up raised, facing her; her face fills the small window, laughing at him.\n\nCUT 2, 0:03 to 0:06, INSIDE, her eyes:\nThe porthole's circle fills the width; he is at the left edge of the window, about 3 m out, facing us, his thumbs-up opening into a slow wave, the wave rolling his body a few degrees; her right gloved hand is already mid-wave at the bottom-right edge, back of the hand to camera. At 0:03.5 the meteor FLIES INTO the frame at the top-right corner of the window, far behind him, entering from the side on a diagonal aimed at the centre of the window, at the pace of a slow aircraft across the sky. It looks like real orbital footage of a bolide: a bright white head about the size of his helmet, and behind it a long smooth tail of light, a continuous soft-edged ribbon ten helmet-widths long, white near the head fading through pale orange to nothing, brightest at the head and dimming evenly along its length. The tail is pure light, like a long-exposure streak: no sparks, no embers, no particles, no flames, no flicker, no trailing debris. The head is never larger than his helmet. He does not see it. Her hand waves twice more; at the end of the cut it stops mid-wave and freezes.\n\nCUT 3, 0:06 to 0:08, OUTSIDE, close on her face through the glass:\nHer face fills the window from the top of the cap to the neck ring, the ring cutting the left and right edges. First frame: she is still smiling, her right gloved hand up beside her face on the screen-left side, frozen mid-wave. Her eyes shift to screen left and up, toward the meteor behind the camera. The smile goes; she swallows; the lips close; the hand lowers. On the glass, faint: the gold specks of the city lights reflected across the lower third, and the meteor as a thin bright line reflected in the upper-left, creeping slowly; both faint, never over her eyes. Two seconds, nothing else moves.\n\nCUT 4, 0:08 to 0:12, INSIDE:\nFor the first second nothing changes but the meteor: it reaches the Earth's limb just above the centre of the window and enters the air; the head brightens to a hard white point and the tail lengthens smoothly, and behind it, along the limb, a faint glowing trail of lit air lingers for a moment and fades. Still no sparks, no particles: a head and a smooth ribbon of light. Her hand hangs still at the bottom right. The astronaut keeps moving: he drifts slowly up and down along the left edge of the window, rolling a few degrees, one arm floating up to chest height, still facing us, warm, never leaving the left third. Then her hand closes and raps the glass three times with the knuckles and she shouts \"Hey! HEY!\"; the hand opens into a point, index finger extended toward the meteor at the centre of the window, arm straight, the glove shaking. The astronaut reads nothing. He brings both gloves together in front of his chest, fingers curved, thumbs down, into a heart shape, holds it for a full second toward her, the gesture rolling him slightly, then lets his hands float apart and drifts on. The camera leans 10 cm toward the glass.\n\nCUT 5, 0:12 to 0:15, OUTSIDE, over the astronaut's shoulder:\nForeground lower right, out of focus: the back of 📷@astronaut's helmet and the top of his backpack, 1 m from camera, drifting slowly across the corner of the frame. Behind the glass, her from the waist up: she slams the glass four times with the flat right palm, fast, her left hand gripping the inner rim to brace, her body recoiling after each hit; between slams the right arm shoots out and the index finger jabs to screen LEFT, away from him, twice. She screams \"BEHIND YOU!\" and then \"TURN AROUND!\", the second louder, her eyes shining wet, no tear yet, her eyes going from him to where she points and back. On the glass, faint reflections of the city lights below and the meteor's bright line upper-left, never over her eyes. He does not turn; he drifts, facing the window, for the whole cut.\n\nCUT 6, 0:15 to 0:21, INSIDE, exactly the framing CUT 4 ended on:\nHer right palm is flat on the glass at the bottom right, fingers spread. The astronaut, at the left edge of the window, is still drifting and rolling, facing us; his helmet tilts toward her pointing arm. At 0:16 he begins to turn around on the spot, slowly and smoothly: his whole body rotates to his left, screen right, the suit's momentum carrying him, the tether swinging after him, his position staying at the left edge. At 0:17, when he is halfway through the turn, side-on to us, the meteor reaches the ground at the exact CENTRE of the window, well to the right of him, with clear sky and dark Earth between him and the strike; its tail fades out behind it in half a second.\nThe impact is SMALL and SLOW, seen from 400 km up. At 0:17 it is a pinpoint of white light at the centre, smaller than his glove, like one city light flaring. Over the next second it swells into a glowing orange dot the size of his glove, and a thin bright ring appears around it, the size of his helmet. The ring expands slowly and evenly, visibly slower than the meteor moved: two helmet-widths across at 0:19, three helmet-widths across at 0:21, and no larger; its edge is a thin bright line, the ground inside it a dull orange glow, the city lights inside it going out one by one as the ring passes them. Everything outside the ring is unchanged: the rest of the planet stays dark with its city lights on, the limb, the airglow and the stars exactly as before. At the centre a thin column of smoke begins to rise, no taller than his helmet by the end of the cut, its top just starting to spread and lit faintly orange from below. The glow is brighter than the city lights but never washes out the frame and never lights up the whole planet.\nHe keeps turning at the same slow speed, until by 0:19 his back is fully to us, his backpack toward the window, and he faces the Earth and the small fire. He never overlaps the impact: it sits at the centre, he stays a dark silhouette at the left edge, a faint orange rim on the right side of his suit and helmet, hanging there, drifting slowly, not turning back. She breathes \"no\". Her hand slides 5 cm down the glass and stops.\n\nCUT 7, 0:21 to 0:25, OUTSIDE, EXACTLY the framing of CUT 3:\nHer face centred in the window, her right palm flat on the glass at the lower left, her eyes turned screen left and down, wide, unblinking. A soft orange glow rises from screen lower-left, slowly, over two seconds, never a flash: onto the glass and her palm first, a faint orange reflection of the distant fire in the lower-left of the glass, then onto her face from below, the chin, the underside of the nose, the lower lids, warm and steady, a little brighter than the LED strip above her. She does not blink. Her lower lids fill. One tear breaks from her right eye, screen left, and runs down the cheek to the jaw, catching the orange light. Her mouth stays closed; the lower lip presses once. Hold on her face to the end; the glow holds.\n\nOPTICS\nCUT 1: about 35 mm equivalent, deep focus, the hull, the window, her profile and the astronaut all sharp, the Earth below slightly soft. INSIDE cuts: wide, about 24 mm equivalent, deep focus, the ring, the astronaut and the Earth all sharp, the glove close to the lens slightly soft. OUTSIDE close cuts: about 50 mm equivalent, shallow depth, her face sharp behind the glass, the ring soft; CUT 5 about 40 mm with the helmet soft in the foreground.\n\nCAMERA\nEvery camera position is locked with a slow zero-gravity drift of a few pixels. INSIDE is her eyes: in CUT 4 it leans 10 cm toward the glass as she knocks; each palm slam in CUT 5 and the hand on the glass in CUT 6 give the frame a small shake that settles within half a second. No handheld wobble otherwise, no zoom, no move.\n\nACTION\n📷@astronaut is NEVER still, in any cut: he floats in zero gravity, always drifting, always rolling a few degrees, his legs trailing, his free arm floating at chest height between gestures, the tether coiling and uncoiling; every gesture moves his body, a thumbs-up pushes him back a little, a wave rolls him, the heart rolls him. In CUT 1 one gentle push with both hands, then pure drift at a constant speed, under 1 km/h, no second push, no flailing, staying within 1.5 m of the hull. From CUT 2 on his drift stays within the left third of the window in every INSIDE cut. He moves like a man in a pressurised suit under water, under 2 km/h, arms from the shoulder, the helmet turning with the torso. He never stands, never hangs frozen in one spot. His one big movement is the slow 180-degree turn on the spot in CUT 6, which starts one second before the impact and is halfway through when it lands. The meteor enters at the top-right corner at 0:03.5, moves on one straight diagonal at a constant speed to the centre of the window, never changing direction, never accelerating, its head never larger than his helmet, a head and a smooth ribbon of light with nothing flying off it. The impact grows slowly: pinpoint, glove, helmet, two helmets, three helmets, over four seconds, and nothing beyond the ring changes. Her movements are fast and human; nose to glass, palms on glass, waving, knocking, slamming; the glove never passes through the glass.\n\nPERFORMANCE\nHer arc: clowning, playful, noticing, still, alarmed, frantic, watching, defeated. Clowning: a girl goofing for someone she loves, nose flattened on the glass, puffed cheeks, a shoulder dance, unguarded, laughing, eyes on him, never on the lens. Playful: a bouncing wave. Noticing: the smile goes out of the face before the hand knows it, the eyes move first, a swallow. Alarmed: knuckles, a straight pointing arm, the glove shaking, a shout. Frantic: the whole forearm behind the slams, the body recoiling, brows up, mouth wide on the screamed words, eyes shining, breath fast. Watching: the mouth opens for one whispered word. Defeated: nothing on the face moves except the eyes filling and the one tear; the stillness is the performance. No sob, no scrunched face, no blinking, no head shake in CUT 7.\nThe astronaut's arc: warm, warm, loving, turning, silhouetted. All suit, slow and rounded; he never rushes. The push-off in CUT 1 is a man stepping back from a doorway to look at her; the heart is sincere and unhurried, a man who thinks he is being flirted with.\n\nPHYSICS\nZero gravity throughout: outside, the astronaut drifts and rotates continuously, the tether floats; inside, she braces on the rim to strike and recoils after each slam; nothing hangs, nothing falls. The glass is thick and clear, never flexes, never cracks, never fogs; her nose and palms flatten against it in CUT 1; from outside it reflects faintly what is behind the camera, the city lights and the meteor's line, and from CUT 7 the faint orange of the distant fire. The meteor is a body far away, seen as a bright head with a smooth luminous trail; the trail is glowing air, not particles, and it fades evenly. The impact is a real, distant event seen from orbit: a small fire on the ground, a ring of shock that expands at a steady, slow, visible pace, a column of smoke that rises slowly; it is a real light source but a small one, lighting the ground around it, the right edge of his suit faintly, and her face softly. His gold visor is a curved mirror: while he faces the window it reflects the porthole as a small warm circle of light with the LED strip along its top, the station floodlight as a bright point, and her as a small dark silhouette inside that reflected window, no facial features. Nothing is ever visible behind the visor.\n\nLIGHTING\nNight. Key on the astronaut: the station floodlight above the porthole, hard white, 5600 K, from above, deep unfilled shadow under his arms and on his lower body. Fill: faint gold glow from the city lights below, 2800 K. His helmet lamps are off. Key on her face from outside: the warm LED strip along the top of the ring inside, 3200 K, soft, from above and in front; fill: cool blue-grey cabin light from screen right, 6500 K, faint. From 0:17 a second source, orange, 2400 K, small and rising slowly: from inside it comes from the centre of the window, to his right, a faint rim on the right side of his suit; from outside it comes from screen lower-left, from below, a soft glow that by CUT 7 is a little brighter than the LED strip on her face, never a flash, never blinding.\n\nAUDIO\nOne sound bed for the whole film, INSIDE the station, under every cut including the outside ones: a low ventilation hum. At 0:00.3 her laugh, close; the squeak of her palms and nose on the glass; a soft dull thud through the hull as his gloves push off. CUT 2: the rustle of the glove, her breath. CUT 3: her breath stops, a swallow. CUT 4: three dull knuckle knocks on thick glass with a short structural ring after each; \"Hey! HEY!\", close and loud. CUT 5: four flat palm slams, louder, a deep ring; \"BEHIND YOU!\", \"TURN AROUND!\", screamed, her breath ragged between them. CUT 6: the impact makes no sound, only the hum; \"no\", whispered; the glove squeaking down the glass. CUT 7: one long exhale, then the hum alone. Outside the glass there is vacuum: nothing she says reaches him. No music, no boom, no rumble.\n\nSTYLE\nPhotoreal live-action, modern digital cinema, clean sensor, no grain, deep clean blacks in the space and the night Earth. Hard single-source light with deep shadow, matching the project Look. No AI gloss, no glow particles anywhere, no sparks, no lens flare over her face. The meteor and the impact look like real orbital footage, not visual-effects fireballs.\n\nPOSITIVE LOCKS\n- THE WINDOW IS SMALL: about 50 cm across, a quarter of the astronaut's height, his helmet two thirds of its width, her head in the cap half of its diameter, her shoulders wider than it. Never a large window, never a dome.\n- 📷@mila 100% matches her reference sheet: face, white cap, white suit, neck ring, white gloves with grey fingertips. Sheet background and layout NOT inherited. No helmet on her, ever. She never looks at the camera.\n- 📷@astronaut 100% matches his reference sheet: the white EVA suit, the backpack, the gold mirrored visor down, the US flag on his left shoulder and the black patch with the green infinity symbol on his chest, exactly as on the sheet. No face inside the helmet and no face reflected on the visor, ever: the visor shows only the reflected window, the floodlight and her dark silhouette. Sheet background and layout NOT inherited. He never looks at the camera.\n- CUT 1: side view, 70 degrees off the window's axis, 9 m away, hull on the left, astronaut on the right facing the window; he starts directly in front of the window with his gloves on the hull, pushes off at 0:00.5, drifts right no more than 1.5 m. NO meteor in CUT 1.\n- Night for the whole film: black space, the night Earth with city lights, no sun, no daylight, no blue daytime Earth.\n- The Earth is a huge gentle arc filling the lower 65% of the window in INSIDE cuts, never a full ball, never a small planet in the distance.\n- The meteor is a bright head about the size of his helmet with a smooth continuous ribbon of light behind it. NO sparks, NO embers, NO particles, NO flames, NO debris, NO flicker, ever. The head is never larger than his helmet.\n- The impact is SMALL and SLOW: a pinpoint at 0:17, a ring the size of his helmet at 0:18, two helmet-widths at 0:19, three helmet-widths at 0:21, never larger. Nothing outside the ring changes; the rest of the planet keeps its city lights; the planet is never covered in fire, never washed out, never destroyed. No instant flash across the Earth.\n- The impact is at the exact centre of the window. The astronaut stays within the left third of the window in every INSIDE cut and never overlaps the impact or the smoke.\n- INSIDE cuts: the same porthole, same ring with its red-and-white segments, same Earth, same glove at the bottom right. CUT 6 returns to exactly the framing CUT 4 ended on.\n- OUTSIDE close cuts: CUT 7 is exactly the framing of CUT 3. From outside no Earth, no meteor, no impact are ever directly in frame, only their faint reflections on the glass and the impact's soft light.\n- Reflections on the glass are faint and never cover her eyes; her face is always sharp and readable.\n- The sky is empty until 0:03.5; the meteor enters at the top-right corner at 0:03.5 and never disappears until impact. One meteor only, no meteor shower.\n- Two people only: her inside, the astronaut outside. In CUT 5 he is seen from BEHIND only and never turns toward the camera. No second hand, no reflection of any person on the window glass.\n- The astronaut faces the window and keeps drifting until 0:16; he begins his slow turn at 0:16, is side-on to us when the impact lands at 0:17, and from 0:19 to the end of CUT 6 his back is to us. He never looks at the meteor before the turn. He is never frozen: he drifts in every cut.\n- One tear, from one eye, in CUT 7 only. No tears before that. No sobbing, no red nose, no open mouth in CUT 7.\n- The glass stays whole: no cracks, no fog, no frost. No text, no letters, no numbers anywhere. The only markings in the film are the US flag on the astronaut's left shoulder and the green infinity patch on his chest, as on his sheet.\n- No blood, no gore, no people on the ground. No title, no fade, no black frames.\n- No theatrical eyebrows, no lip biting, no exaggerated gestures; nothing outside the glass moves fast.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/alexwtlf-981005/original.52eded4823.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/alexwtlf-981005",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "souravbhar871-477361",
   "author": "souravbhar871",
   "author_url": "https://x.com/souravbhar871",
@@ -1990,23 +1431,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/ved-cj-066575/original.0b409f121f.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/ved-cj-066575",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "mustaphafenzar-973906",
-  "author": "MustaphaFenzar",
-  "author_url": "https://x.com/MustaphaFenzar",
-  "post_url": "https://x.com/MustaphaFenzar/status/2103708363074973906",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "css"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\n\n  it should be a launch app video for https://mounis.app/",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/mustaphafenzar-973906/original.ae0c0dacd3.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/mustaphafenzar-973906",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -2063,39 +1487,6 @@
   "has_remake": true
  },
  {
-  "slug": "motiondsgnr-313960",
-  "author": "motiondsgnr",
-  "author_url": "https://x.com/motiondsgnr",
-  "post_url": "https://x.com/motiondsgnr/status/2103692944771313960",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/motiondsgnr-313960/original.22fbb58294.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/motiondsgnr-313960",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "karanb192-032177",
-  "author": "karanb192",
-  "author_url": "https://x.com/karanb192",
-  "post_url": "https://x.com/karanb192/status/2103690266633032177",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "css"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/karanb192-032177/original.a35ada46f2.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/karanb192-032177",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "groundcontrol-230877",
   "author": "GroundControl",
   "author_url": "https://x.com/GroundControl",
@@ -2109,23 +1500,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/groundcontrol-230877/original.360975f3b3.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/groundcontrol-230877",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "designbyfusun-559069",
-  "author": "DesignByFusun",
-  "author_url": "https://x.com/DesignByFusun",
-  "post_url": "https://x.com/DesignByFusun/status/2103672001206559069",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "css"
-  ],
-  "prompt": "Make a dynamic 15-second motion graphics video about https://octostudio.co that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/designbyfusun-559069/original.b5a04be9f5.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/designbyfusun-559069",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -2147,23 +1521,6 @@
   "has_remake": true
  },
  {
-  "slug": "jasonzhou1993-515541",
-  "author": "jasonzhou1993",
-  "author_url": "https://x.com/jasonzhou1993",
-  "post_url": "https://x.com/jasonzhou1993/status/2103663364958515541",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/jasonzhou1993-515541/original.d1b9577274.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/jasonzhou1993-515541",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "ceowinkz-683602",
   "author": "ceowinkz",
   "author_url": "https://x.com/ceowinkz",
@@ -2177,92 +1534,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/ceowinkz-683602/original.7107053c99.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/ceowinkz-683602",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "akbuilds-150675",
-  "author": "akbuilds_",
-  "author_url": "https://x.com/akbuilds_",
-  "post_url": "https://x.com/akbuilds_/status/2103646141271150675",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/akbuilds-150675/original.834b2af6c6.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/akbuilds-150675",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "vanshwtfff-992798",
-  "author": "VanshWTFFF",
-  "author_url": "https://x.com/VanshWTFFF",
-  "post_url": "https://x.com/VanshWTFFF/status/2103644352794992798",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "particles"
-  ],
-  "prompt": "make a dynamic 10 second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/vanshwtfff-992798/original.a809753f7e.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/vanshwtfff-992798",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "web3wesley-365164",
-  "author": "Web3Wesley",
-  "author_url": "https://x.com/Web3Wesley",
-  "post_url": "https://x.com/Web3Wesley/status/2103644329294365164",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "canvas",
-   "css",
-   "particles"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/web3wesley-365164/original.737204d5f4.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/web3wesley-365164",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "sudiyasa-076027",
-  "author": "Sudiyasa_",
-  "author_url": "https://x.com/Sudiyasa_",
-  "post_url": "https://x.com/Sudiyasa_/status/2103638831669076027",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "particles"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out  do this to thank the first 100 users of \n@eyezonbot",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/sudiyasa-076027/original.6c599fe327.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/sudiyasa-076027",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "kentcdodds-858193",
-  "author": "kentcdodds",
-  "author_url": "https://x.com/kentcdodds",
-  "post_url": "https://x.com/kentcdodds/status/2103638102333858193",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Topic: Kody. Goal: make it click for people. \n\nStart with research. You make all decisions. Feel free to make multiple videos. Output to my Dropbox and message me on discord with links.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/kentcdodds-858193/original.40091b2d4f.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/kentcdodds-858193",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -2299,24 +1570,6 @@
   "has_remake": true
  },
  {
-  "slug": "seflless-929329",
-  "author": "seflless",
-  "author_url": "https://x.com/seflless",
-  "post_url": "https://x.com/seflless/status/2103629182487929329",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/seflless-929329/original.b313a11ded.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/seflless-929329",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "nolit64-347627",
   "author": "NoLit64",
   "author_url": "https://x.com/NoLit64",
@@ -2335,39 +1588,6 @@
   "has_remake": true
  },
  {
-  "slug": "leadnotifi-960983",
-  "author": "leadnotifi",
-  "author_url": "https://x.com/leadnotifi",
-  "post_url": "https://x.com/leadnotifi/status/2103628028391960983",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/leadnotifi-960983/original.10bc377c4e.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/leadnotifi-960983",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "tolgayhickiran-935120",
-  "author": "tolgayhickiran",
-  "author_url": "https://x.com/tolgayhickiran",
-  "post_url": "https://x.com/tolgayhickiran/status/2103619422128935120",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/tolgayhickiran-935120/original.f968992ec6.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/tolgayhickiran-935120",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "iammxfschr-955831",
   "author": "iamMXFSCHR",
   "author_url": "https://x.com/iamMXFSCHR",
@@ -2380,22 +1600,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/iammxfschr-955831/original.1500ad9b7c.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/iammxfschr-955831",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "kangaroohere-818789",
-  "author": "KangarooHere",
-  "author_url": "https://x.com/KangarooHere",
-  "post_url": "https://x.com/KangarooHere/status/2103617278671818789",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 20-second motion graphics video for my newsletter that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/kangaroohere-818789/original.911dda6a15.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/kangaroohere-818789",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -2431,39 +1635,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/manuelogomigo-052364/original.83bcca4a5b.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/manuelogomigo-052364",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "mrtanviir-132205",
-  "author": "mrtanviir",
-  "author_url": "https://x.com/mrtanviir",
-  "post_url": "https://x.com/mrtanviir/status/2103608767309132205",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/mrtanviir-132205/original.9c53ce0496.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/mrtanviir-132205",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "marouanegazouzi-131257",
-  "author": "marouanegazouzi",
-  "author_url": "https://x.com/marouanegazouzi",
-  "post_url": "https://x.com/marouanegazouzi/status/2103608571435131257",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/marouanegazouzi-131257/original.7125c80d0d.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/marouanegazouzi-131257",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -2570,55 +1741,6 @@
   "has_remake": true
  },
  {
-  "slug": "johnsavage-ai-041677",
-  "author": "johnsavage_ai",
-  "author_url": "https://x.com/johnsavage_ai",
-  "post_url": "https://x.com/johnsavage_ai/status/2103600308010041677",
-  "category": "motion",
-  "tech_tags": [
-   "shader",
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. use only code",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/johnsavage-ai-041677/original.bd22ed7e11.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/johnsavage-ai-041677",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "phonggt-377247",
-  "author": "PhongGT",
-  "author_url": "https://x.com/PhongGT",
-  "post_url": "https://x.com/PhongGT/status/2103591799189377247",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/phonggt-377247/original.cdcf49c7ed.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/phonggt-377247",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "anxuanng-990790",
-  "author": "anxuanng",
-  "author_url": "https://x.com/anxuanng",
-  "post_url": "https://x.com/anxuanng/status/2103590725996990790",
-  "category": "motion",
-  "tech_tags": [
-   "svg"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/anxuanng-990790/original.3b63df32dd.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/anxuanng-990790",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "1littlecoder-914649",
   "author": "1littlecoder",
   "author_url": "https://x.com/1littlecoder",
@@ -2631,55 +1753,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/1littlecoder-914649/original.b2bf84bb6f.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/1littlecoder-914649",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "shinskinakamoto-589043",
-  "author": "Shinskinakamoto",
-  "author_url": "https://x.com/Shinskinakamoto",
-  "post_url": "https://x.com/Shinskinakamoto/status/2103580532852589043",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "Make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume, go all out!",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/shinskinakamoto-589043/original.385cd99a97.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/shinskinakamoto-589043",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "m1n9-k7-295601",
-  "author": "m1n9_k7",
-  "author_url": "https://x.com/m1n9_k7",
-  "post_url": "https://x.com/m1n9_k7/status/2103580011882295601",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out'",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/m1n9-k7-295601/original.c58930f3c2.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/m1n9-k7-295601",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "m1n9-k7-466682",
-  "author": "m1n9_k7",
-  "author_url": "https://x.com/m1n9_k7",
-  "post_url": "https://x.com/m1n9_k7/status/2103579630045466682",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "ai-image"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out'",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/m1n9-k7-466682/original.de553ab2fc.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/m1n9-k7-466682",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -2701,22 +1774,6 @@
   "has_remake": true
  },
  {
-  "slug": "sagarmohansingh-322168",
-  "author": "SagarmohanSingh",
-  "author_url": "https://x.com/SagarmohanSingh",
-  "post_url": "https://x.com/SagarmohanSingh/status/2103574041781322168",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/sagarmohansingh-322168/original.e9b97029d3.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/sagarmohansingh-322168",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "annacher-433425",
   "author": "AnnaCher___",
   "author_url": "https://x.com/AnnaCher___",
@@ -2733,23 +1790,6 @@
   "has_remake": true
  },
  {
-  "slug": "paranoidamerica-686717",
-  "author": "ParanoidAmerica",
-  "author_url": "https://x.com/ParanoidAmerica",
-  "post_url": "https://x.com/ParanoidAmerica/status/2103570879619686717",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "ai-image"
-  ],
-  "prompt": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video.\n\nclaude/opus 5.5 detected comfyui on my system, generated all the assets with SDXL and then composited and animated it all together.\n\nEven if I had all of the art assets and timeline markers, this would have easily taken be 8-10+ hours in After Effects to do manually.\n\nI might never open After Effects again.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/paranoidamerica-686717/original.a8fa4426d6.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/paranoidamerica-686717",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "slvdev-975986",
   "author": "slvDev",
   "author_url": "https://x.com/slvDev",
@@ -2762,22 +1802,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/slvdev-975986/original.6498f792fd.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/slvdev-975986",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "crazyalphaaa-480622",
-  "author": "CrazyAlphaaa",
-  "author_url": "https://x.com/CrazyAlphaaa",
-  "post_url": "https://x.com/CrazyAlphaaa/status/2103568486249480622",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/crazyalphaaa-480622/original.56c950f892.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/crazyalphaaa-480622",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -2848,23 +1872,6 @@
   "has_remake": true
  },
  {
-  "slug": "blue-clarity-449603",
-  "author": "blue_clarity",
-  "author_url": "https://x.com/blue_clarity",
-  "post_url": "https://x.com/blue_clarity/status/2103564589065449603",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "particles"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/blue-clarity-449603/original.a3f08665b7.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/blue-clarity-449603",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "reflex-cloud-304046",
   "author": "reflex_cloud",
   "author_url": "https://x.com/reflex_cloud",
@@ -2880,38 +1887,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/reflex-cloud-304046/original.fe1e9ca92c.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/reflex-cloud-304046",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "3xtihor-159839",
-  "author": "3xtihor",
-  "author_url": "https://x.com/3xtihor",
-  "post_url": "https://x.com/3xtihor/status/2103551886272159839",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. Go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/3xtihor-159839/original.7ad7832b97.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/3xtihor-159839",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "dansushik-289121",
-  "author": "dansushik",
-  "author_url": "https://x.com/dansushik",
-  "post_url": "https://x.com/dansushik/status/2103547478482289121",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/dansushik-289121/original.fe3e910c10.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/dansushik-289121",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -2947,22 +1922,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/samuel-spitz-503053/original.6b368c2158.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/samuel-spitz-503053",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "adamdesgns-768014",
-  "author": "Adamdesgns",
-  "author_url": "https://x.com/Adamdesgns",
-  "post_url": "https://x.com/Adamdesgns/status/2103542756555768014",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. (About the pipefitters bible)",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/adamdesgns-768014/original.a53ecc9016.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/adamdesgns-768014",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -3016,24 +1975,6 @@
   "has_remake": true
  },
  {
-  "slug": "sahildesigner23-307120",
-  "author": "sahildesigner23",
-  "author_url": "https://x.com/sahildesigner23",
-  "post_url": "https://x.com/sahildesigner23/status/2103536115563307120",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/sahildesigner23-307120/original.74a8707c86.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/sahildesigner23-307120",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "cansincengiz-me-424245",
   "author": "cansincengiz_me",
   "author_url": "https://x.com/cansincengiz_me",
@@ -3063,41 +2004,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/kikelopezdesign-173471/original.5bd8561469.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/kikelopezdesign-173471",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "safarkhanshuvo-059752",
-  "author": "safarkhanshuvo",
-  "author_url": "https://x.com/safarkhanshuvo",
-  "post_url": "https://x.com/safarkhanshuvo/status/2103520091552059752",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "particles"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/safarkhanshuvo-059752/original.d115ca99a7.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/safarkhanshuvo-059752",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "leonkohli-191220",
-  "author": "LeonKohli",
-  "author_url": "https://x.com/LeonKohli",
-  "post_url": "https://x.com/LeonKohli/status/2103517696038191220",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "canvas",
-   "svg"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/leonkohli-191220/original.76292d3aaf.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/leonkohli-191220",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -3153,24 +2059,6 @@
   "has_remake": true
  },
  {
-  "slug": "fionntobin-479597",
-  "author": "fionntobin",
-  "author_url": "https://x.com/fionntobin",
-  "post_url": "https://x.com/fionntobin/status/2103510776690479597",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/fionntobin-479597/original.ec469b9b5c.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/fionntobin-479597",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "leanzubrezki-766171",
   "author": "LeanZubrezki",
   "author_url": "https://x.com/LeanZubrezki",
@@ -3203,24 +2091,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/onewaysidewalks-440008/original.d26cfa4030.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/onewaysidewalks-440008",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "bhanujraj-928454",
-  "author": "bhanujraj",
-  "author_url": "https://x.com/bhanujraj",
-  "post_url": "https://x.com/bhanujraj/status/2103496403544928454",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "css"
-  ],
-  "prompt": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/bhanujraj-928454/original.600b424047.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/bhanujraj-928454",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -3260,23 +2130,6 @@
   "has_remake": true
  },
  {
-  "slug": "monokern-613142",
-  "author": "monokern",
-  "author_url": "https://x.com/monokern",
-  "post_url": "https://x.com/monokern/status/2103489794143613142",
-  "category": "motion",
-  "tech_tags": [
-   "svg",
-   "ai-image"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. make it conceptually connected to my portfolio at http://monokern.design",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/monokern-613142/original.80e0182bcc.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/monokern-613142",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "nezbuilds-294391",
   "author": "nezbuilds",
   "author_url": "https://x.com/nezbuilds",
@@ -3289,23 +2142,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/nezbuilds-294391/original.2ea16dc1f9.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/nezbuilds-294391",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "umangratani-840800",
-  "author": "umangratani",
-  "author_url": "https://x.com/umangratani",
-  "post_url": "https://x.com/umangratani/status/2103486881136840800",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "particles"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/umangratani-840800/original.680e0051f6.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/umangratani-840800",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -3345,41 +2181,6 @@
   "has_remake": true
  },
  {
-  "slug": "kyonax-on-tech-049316",
-  "author": "kyonax_on_tech",
-  "author_url": "https://x.com/kyonax_on_tech",
-  "post_url": "https://x.com/kyonax_on_tech/status/2103482598144049316",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\n\nMake sure to showcase properly the usecases, the flow, properly show everything on how it works, also the ascii logo of this is on the kyo-web-online, keep in mind also the color palette.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/kyonax-on-tech-049316/original.31ba39131e.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/kyonax-on-tech-049316",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "aistocksavvy-483320",
-  "author": "AIStockSavvy",
-  "author_url": "https://x.com/AIStockSavvy",
-  "post_url": "https://x.com/AIStockSavvy/status/2103482258774483320",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "css"
-  ],
-  "prompt": "Create a bold, dynamic 15-second motion graphics video that showcases your best motion design skills as if it’s the highlight of your portfolio for a dream job. Bring sharp timing, smooth transitions, and standout visuals. Push your creativity and make every second count.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/aistocksavvy-483320/original.739f96a98e.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/aistocksavvy-483320",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "xelandre-687413",
   "author": "xelandre__",
   "author_url": "https://x.com/xelandre__",
@@ -3393,24 +2194,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/xelandre-687413/original.cf7ca87baf.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/xelandre-687413",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "praburajkennady-972967",
-  "author": "praburajkennady",
-  "author_url": "https://x.com/praburajkennady",
-  "post_url": "https://x.com/praburajkennady/status/2103467326112972967",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/praburajkennady-972967/original.0e98b8d32c.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/praburajkennady-972967",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -3528,39 +2311,6 @@
   "has_remake": true
  },
  {
-  "slug": "tcballard-268605",
-  "author": "tcballard",
-  "author_url": "https://x.com/tcballard",
-  "post_url": "https://x.com/tcballard/status/2103441222375268605",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out. It should be focused on Omarchy",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/tcballard-268605/original.d4455178e7.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/tcballard-268605",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "itsuki-dev-618392",
-  "author": "itsuki_dev",
-  "author_url": "https://x.com/itsuki_dev",
-  "post_url": "https://x.com/itsuki_dev/status/2103438087204618392",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "particles"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/itsuki-dev-618392/original.703c5493b0.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/itsuki-dev-618392",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "opener-ai-843891",
   "author": "opener_ai",
   "author_url": "https://x.com/opener_ai",
@@ -3575,22 +2325,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/opener-ai-843891/original.9c2378e71b.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/opener-ai-843891",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "dris1153-101043",
-  "author": "dris1153",
-  "author_url": "https://x.com/dris1153",
-  "post_url": "https://x.com/dris1153/status/2103433398069101043",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/dris1153-101043/original.6539ad642e.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/dris1153-101043",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -3743,22 +2477,6 @@
   "has_remake": true
  },
  {
-  "slug": "hanifproduktif-829311",
-  "author": "hanifproduktif",
-  "author_url": "https://x.com/hanifproduktif",
-  "post_url": "https://x.com/hanifproduktif/status/2103404901451829311",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "You are applying as a motion designer in my agency. Make 15s video to showcase your skills and capabilities. Send me a showreel",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/hanifproduktif-829311/original.ffab986c61.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/hanifproduktif-829311",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
   "slug": "rneayan-406275",
   "author": "rneayan",
   "author_url": "https://x.com/rneayan",
@@ -3807,23 +2525,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/hoyoyoda-543147/original.73e5ffdbd2.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/hoyoyoda-543147",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "rendesr-676116",
-  "author": "rendesr",
-  "author_url": "https://x.com/rendesr",
-  "post_url": "https://x.com/rendesr/status/2103395846578676116",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "particles"
-  ],
-  "prompt": "Make a dynamic 15 second motion graphics video that shows off what an incredible motion designer you are. Imagine it's your showreel for a resume!",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/rendesr-676116/original.c8d24e0729.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/rendesr-676116",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -4480,24 +3181,6 @@
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/charlesmendez-476517/original.e1bdce301e.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/charlesmendez-476517",
-  "added": "2026-09-26",
-  "has_remake": true
- },
- {
-  "slug": "viggle-pinoc-434495",
-  "author": "Viggle_PINOC",
-  "author_url": "https://x.com/Viggle_PINOC",
-  "post_url": "https://x.com/Viggle_PINOC/status/2102861939072434495",
-  "category": "3d",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "Create a playable version of Minecraft in my browser. Add advanced shaders that make it look as real and beautiful as possible.  \n\nWorld: vanilla ES modules + three.js (importmap from jsdelivr, no build step). Procedural voxel terrain with trees, beaches and water. Make it look as real and beautiful as possible: physically based sky, clouds, soft shadows, water reflections and caustics, god rays, bloom, PBR block textures. First/third-person player (V toggles), mining and placing blocks, torches, stairs, a hotbar and an inventory (E), a day/night cycle with nights that are still readable.  \n\nCharacters: keep the look pixel-art blocky Minecraft people (box head/body/arms/legs), but animate them with PINOC MCP. Use PINOC only for motions: download the skinned-glb format (Mixamo skeleton) and bake each clip onto the six blocky parts (limbs follow shoulder→wrist and hip→ankle, torso follows the spine, head copies the head bone). Strip the bundled X Bot mesh from every GLB so they stay small, strip root motion so walks play in place, turn every clip so the hips face forward on frame 1, and trim clips that don't loop cleanly to a matching span.  \n\nMotions: check the free PINOC motion library first. Only generate a motion when the library has nothing that fits, and tell me the credit cost before generating. For every generation, compare the 4 samples and keep the one with the cleanest loop.  \n\nOpening scene: a small village on the flattest open ground in view of spawn, with the player facing it. Each villager has a job, and each job uses a different motion: - a greeter that wanders and waves when it sees you - a miner, a lumberjack at a real tree and a farmer on a tilled dirt patch, each swinging a blocky tool; every strike chips particles off the block it hits - an archer with a bow that shoots arrows into a target on the release frame - a guard who draws a sword when you get close and faces you - a porter who carries crates between two piles, one at a time No floating labels over the NPCs.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/viggle-pinoc-434495/original.31021e045e.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/viggle-pinoc-434495",
   "added": "2026-09-26",
   "has_remake": true
  },
@@ -5891,24 +4574,6 @@
   "has_remake": true
  },
  {
-  "slug": "chukinice-426722",
-  "author": "chukinice",
-  "author_url": "https://x.com/chukinice",
-  "post_url": "https://x.com/chukinice/status/2102889901297426722",
-  "category": "interactive",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "I updated my game Higher on @spawn with Opus 5.5 and Savi with just only one prompt\n\nThis is the result. Multiplayer game with portals to different worlds\n\nPlay here: https://www.spawn.co/@chucky/higher/play",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/chukinice-426722/original.ec84c68572.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/chukinice-426722",
-  "added": "2026-09-28",
-  "has_remake": true
- },
- {
   "slug": "mozetech-471882",
   "author": "MozeTech",
   "author_url": "https://x.com/MozeTech",
@@ -5941,43 +4606,6 @@
   "prompt_partial": true,
   "poster_url": "https://media.skillry.dev/opus-5-5/janeloic-905802/original.63ee835ce2.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/janeloic-905802",
-  "added": "2026-09-28",
-  "has_remake": true
- },
- {
-  "slug": "mgfeller-779161",
-  "author": "mgfeller",
-  "author_url": "https://x.com/mgfeller",
-  "post_url": "https://x.com/mgfeller/status/2103135019170779161",
-  "category": "interactive",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas",
-   "svg"
-  ],
-  "prompt": "Opus 5.5 is seriously impressive🤯 \n\nI gave Lovable a detailed prompt for a game I wanted to build, and it used Opus 5.5 to turn it into what you see in the video.\n\nFive hours of cooking. One-shotted.",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/mgfeller-779161/original.1d77932047.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/mgfeller-779161",
-  "added": "2026-09-28",
-  "has_remake": true
- },
- {
-  "slug": "danielkan-059523",
-  "author": "danielkan",
-  "author_url": "https://x.com/danielkan",
-  "post_url": "https://x.com/danielkan/status/2103199030688059523",
-  "category": "interactive",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "Day 7 of making a game every day until I hit 1 million followers.\n\nDriftward: Oregon Trail in space, four mini games. Can you make it to the other side of the galaxy alive? Made in a single prompt with Opus 5.5 and Fifth Door.",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/danielkan-059523/original.bc4fa30806.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/danielkan-059523",
   "added": "2026-09-28",
   "has_remake": true
  },
@@ -6300,24 +4928,6 @@
   "has_remake": true
  },
  {
-  "slug": "loverwnl-712109",
-  "author": "loverWNL",
-  "author_url": "https://x.com/loverWNL",
-  "post_url": "https://x.com/loverWNL/status/2103888380794712109",
-  "category": "interactive",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "ok i ran out of usage on claude so had to move to astra for the video... so this is just very early release of my game.. \n\nroughly 3 20x subscriptions worth of dev, not slop, not copy/paste MMORPG you see...\n\nfree play, ranked play, staked play. invite \n\nbuilt with opus 5.5 (:",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/loverwnl-712109/original.b354224e96.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/loverwnl-712109",
-  "added": "2026-09-28",
-  "has_remake": true
- },
- {
   "slug": "deeprajo1-834106",
   "author": "deeprajO1",
   "author_url": "https://x.com/deeprajO1",
@@ -6369,24 +4979,6 @@
   "prompt_partial": true,
   "poster_url": "https://media.skillry.dev/opus-5-5/blitast-studio-257328/original.650dff62a0.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/blitast-studio-257328",
-  "added": "2026-09-28",
-  "has_remake": true
- },
- {
-  "slug": "aniketjart-094296",
-  "author": "aniketjart",
-  "author_url": "https://x.com/aniketjart",
-  "post_url": "https://x.com/aniketjart/status/2104004272946094296",
-  "category": "interactive",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "Update to my open world fantasy sci-fi game. You can now fly thru a larger map and vibe! used Opus 5.5, @usecrayon and Threejs.\n\nPlay here: https://app.usecrayon.ai/play/b42413e5-669e-4fb3-87d3-a3285567736c",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/aniketjart-094296/original.1356015e9a.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/aniketjart-094296",
   "added": "2026-09-28",
   "has_remake": true
  },
@@ -6696,24 +5288,6 @@
   "has_remake": true
  },
  {
-  "slug": "mattworkman-309357",
-  "author": "mattworkman",
-  "author_url": "https://x.com/mattworkman",
-  "post_url": "https://x.com/mattworkman/status/2104662818742309357",
-  "category": "explainer",
-  "tech_tags": [
-   "threejs",
-   "shader",
-   "canvas"
-  ],
-  "prompt": "messing around with Opus 5.5\n- HyperFrames staging, edit\n- JavaScript, ThreeJS,\n- fal GPT Image 2.5 and Seedance 2.5\n\nvery blah text design, I need a fal design skill/guideline ideally",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/mattworkman-309357/original.4d86c8f76e.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/mattworkman-309357",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
   "slug": "washow-cfo-175311",
   "author": "washow_cfo",
   "author_url": "https://x.com/washow_cfo",
@@ -6743,25 +5317,6 @@
   "prompt_partial": true,
   "poster_url": "https://media.skillry.dev/opus-5-5/timguignard-623571/original.c6c98a78c9.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/timguignard-623571",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "jesscaroline7-955094",
-  "author": "jesscaroline7",
-  "author_url": "https://x.com/jesscaroline7",
-  "post_url": "https://x.com/jesscaroline7/status/2104336637752955094",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "canvas",
-   "svg",
-   "gsap"
-  ],
-  "prompt": "motion reel do http://ondefica.app inspirada no @gabrielbuzziv e @condzxyz, segui o tutorial e prompt deles e fui aparando as arestas\n\n1. skill hyperframes\n\n2. mesmo prompt: \"make a dynamic motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out\"\n\n3. referencie a pasta do projeto. o que tinha nela fez a diferença:\n> app real: o Claude navegou no simulador do iOS e gravou as telas\n> dados reais: ele escreveu as queries, eu rodei no banco.\n> 3D: dioramas criados no ChatGPT 6 (Astra), animados pelo claude com Higgsfield\n> trilha no Suno + efeitos do Soundly\n\nmodelo: opus 5.5 (effort: max), plano Max 5x",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/jesscaroline7-955094/original.8ba27e2d07.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/jesscaroline7-955094",
   "added": "2026-09-29",
   "has_remake": true
  },
@@ -6812,40 +5367,6 @@
   "prompt_partial": true,
   "poster_url": "https://media.skillry.dev/opus-5-5/mappletour-334921/original.0bb6633b54.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/mappletour-334921",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "thayto-dev-739735",
-  "author": "thayto_dev",
-  "author_url": "https://x.com/thayto_dev",
-  "post_url": "https://x.com/thayto_dev/status/2104200591278739735",
-  "category": "motion",
-  "tech_tags": [
-   "gsap"
-  ],
-  "prompt": "TUTORIAL do @gabrielbuzziv \n\n> o mais insano ta, é que isso gastou tipo 5% do limite de 5 horas\n\n1. instale a skill hyperframes\n\n2. prompt: \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\n3. no prompt referencia a pasta do seu projeto\n\n4. espera a mágica acontecer\n\nmodelo usado: opus 5.5 (effort: max)",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/thayto-dev-739735/original.fa12f96486.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/thayto-dev-739735",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "jayjohnsonai-117305",
-  "author": "jayjohnsonai",
-  "author_url": "https://x.com/jayjohnsonai",
-  "post_url": "https://x.com/jayjohnsonai/status/2104188140718117305",
-  "category": "motion",
-  "tech_tags": [
-   "shader",
-   "canvas",
-   "svg"
-  ],
-  "prompt": "AI video editing has been improving quite a bit. Claude made this in about 5 mins with the hyperframes skill. I used Opus 5.5 with effort on the highest (ultracode)",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/jayjohnsonai-117305/original.2315138171.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/jayjohnsonai-117305",
   "added": "2026-09-29",
   "has_remake": true
  },
@@ -6954,42 +5475,6 @@
   "has_remake": true
  },
  {
-  "slug": "pauloalonso-477996",
-  "author": "pauloalonso",
-  "author_url": "https://x.com/pauloalonso",
-  "post_url": "https://x.com/pauloalonso/status/2103703837869477996",
-  "category": "interactive",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "pixel"
-  ],
-  "prompt": "Testando o Opus 5.5 com a skill hyperframes que vi no post do @gabrielbuzziv \n\nSimplesmente inacreditável, a voz foi gerada localmente, se tivesse enviado pro ElevenLabs talvez teria ficado melhor, 9,8/10",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/pauloalonso-477996/original.4b2ccc2313.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/pauloalonso-477996",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "danilowm-412022",
-  "author": "danilowm",
-  "author_url": "https://x.com/danilowm",
-  "post_url": "https://x.com/danilowm/status/2103661844661412022",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "css"
-  ],
-  "prompt": "Cursor usando o Opus 5.5 \ninstale a skill hyperframes via terminal depois rodei\n\"/hyperframes make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.  use todo o contexto do projeto\"",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/danilowm-412022/original.aac22785e9.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/danilowm-412022",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
   "slug": "georgejimenez98-431559",
   "author": "georgejimenez98",
   "author_url": "https://x.com/georgejimenez98",
@@ -7041,23 +5526,6 @@
   "has_remake": true
  },
  {
-  "slug": "jake11moran-825416",
-  "author": "jake11moran",
-  "author_url": "https://x.com/jake11moran",
-  "post_url": "https://x.com/jake11moran/status/2103247490237825416",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg"
-  ],
-  "prompt": "/session-story\n\ncreated a skill for opus 5.5 using @HyperFrames_ - claude reads your local claude code history, finds what an average session with you looks like and animates it start to finish with your messages\n\ntry here: https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/session-story",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/jake11moran-825416/original.c4754152f5.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/jake11moran-825416",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
   "slug": "georgejimenez98-427173",
   "author": "georgejimenez98",
   "author_url": "https://x.com/georgejimenez98",
@@ -7071,24 +5539,6 @@
   "prompt_partial": true,
   "poster_url": "https://media.skillry.dev/opus-5-5/georgejimenez98-427173/original.fa16c6e1b7.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/georgejimenez98-427173",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "pwntastickev-664257",
-  "author": "PwntasticKev",
-  "author_url": "https://x.com/PwntasticKev",
-  "post_url": "https://x.com/PwntasticKev/status/2103202224675664257",
-  "category": "3d",
-  "tech_tags": [
-   "threejs",
-   "canvas",
-   "svg"
-  ],
-  "prompt": "Experimenting with our contact page where astra made the outside model. Decided to do a tour inside and have Opus 5.5 take a swing with some images to walk the client where to go. Used @HyperFrames_ to create the video. Im VERY impressed!\n#hyperframes #honeyraeaesthetics #opus5",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/pwntastickev-664257/original.b397b2c855.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/pwntastickev-664257",
   "added": "2026-09-29",
   "has_remake": true
  },
@@ -7111,72 +5561,6 @@
   "has_remake": true
  },
  {
-  "slug": "shushant-l-619370",
-  "author": "shushant_l",
-  "author_url": "https://x.com/shushant_l",
-  "post_url": "https://x.com/shushant_l/status/2102730243576619370",
-  "category": "motion",
-  "tech_tags": [
-   "svg",
-   "gsap"
-  ],
-  "prompt": "Created a launch video for my startup https://bestproductivityresources.com with Claude Opus 5.5 Medium in Claude Code with the Hyperframes by HeyGen skill.",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/shushant-l-619370/original.45e684c298.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/shushant-l-619370",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "papaneco-life-541187",
-  "author": "papaneco_life",
-  "author_url": "https://x.com/papaneco_life",
-  "post_url": "https://x.com/papaneco_life/status/2102676815416541187",
-  "category": "motion",
-  "tech_tags": [
-   "svg"
-  ],
-  "prompt": "Opus5.5 解説 hyperframesチャレンジ２\nノリが良いのできた♪",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/papaneco-life-541187/original.1862b17976.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/papaneco-life-541187",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "papaneco-life-038225",
-  "author": "papaneco_life",
-  "author_url": "https://x.com/papaneco_life",
-  "post_url": "https://x.com/papaneco_life/status/2102649707504038225",
-  "category": "explainer",
-  "tech_tags": [
-   "svg"
-  ],
-  "prompt": "Opus5.5 で hyperframes チャレンジ。\n結構、形になってきたかな",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/papaneco-life-038225/original.1aa9347993.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/papaneco-life-038225",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "jetbrains-754812",
-  "author": "jetbrains",
-  "author_url": "https://x.com/jetbrains",
-  "post_url": "https://x.com/jetbrains/status/2102459650125754812",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg"
-  ],
-  "prompt": "This product video was generated entirely by Claude Opus 5.5.\n\nOur colleague @kristel_tech gave it @HeyGen’s HyperFrames skills and pointed it at https://kotlinlang.org – out came this Kotlin promo.\n\nTry it in JetBrains Air or Junie.",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/jetbrains-754812/original.f0cedf1c58.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/jetbrains-754812",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
   "slug": "l3d1c-632524",
   "author": "l3d1c",
   "author_url": "https://x.com/l3d1c",
@@ -7189,24 +5573,6 @@
   "prompt_partial": true,
   "poster_url": "https://media.skillry.dev/opus-5-5/l3d1c-632524/original.f6cb8403eb.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/l3d1c-632524",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "tardigrade111-160686",
-  "author": "Tardigrade111",
-  "author_url": "https://x.com/Tardigrade111",
-  "post_url": "https://x.com/Tardigrade111/status/2104620857826160686",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "svg",
-   "gsap"
-  ],
-  "prompt": "Amazing that this is possible now. I made this with Opus5.5. It controls blender, remotion, runway and veo to make this by itself 🤯",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/tardigrade111-160686/original.3de94e44c8.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/tardigrade111-160686",
   "added": "2026-09-29",
   "has_remake": true
  },
@@ -7276,24 +5642,6 @@
   "has_remake": true
  },
  {
-  "slug": "devarshukani-341827",
-  "author": "devarshukani",
-  "author_url": "https://x.com/devarshukani",
-  "post_url": "https://x.com/devarshukani/status/2104432185277341827",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "gsap"
-  ],
-  "prompt": "I tied brag + remotion + opus 5.5 max and this oneshot launch teaser for https://lysa.legal/",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/devarshukani-341827/original.34dd4c0c9e.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/devarshukani-341827",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
   "slug": "zakisbuilding-495680",
   "author": "zakisbuilding",
   "author_url": "https://x.com/zakisbuilding",
@@ -7345,24 +5693,6 @@
   "has_remake": true
  },
  {
-  "slug": "elliot-garreffa-446825",
-  "author": "elliot_garreffa",
-  "author_url": "https://x.com/elliot_garreffa",
-  "post_url": "https://x.com/elliot_garreffa/status/2104213514944446825",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg",
-   "css"
-  ],
-  "prompt": "alright opus 5.5 is pretty damn good at motion graphics\n\nour @Muse connector tracker is live and i gave opus our http://agentdiscoverability.com/track/muse url and our brand guidelines and let it cook\n\nthings i found improved the output\n-  references - give it 1 or 2 reference videos to go off\n- storyboard - its pretty good at defining the features to include but if you have specifics, list them out prior\n- video - use remotion as the main driver \n- and honestly, the prompt below. i didnt use it originally and then asked it to do a re-run with this prompt and the output was far better\n\n\"make this a dynamic motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/elliot-garreffa-446825/original.58de3fa7d9.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/elliot-garreffa-446825",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
   "slug": "dannyverkissen-101463",
   "author": "DannyVerkissen",
   "author_url": "https://x.com/DannyVerkissen",
@@ -7375,22 +5705,6 @@
   "prompt_partial": true,
   "poster_url": "https://media.skillry.dev/opus-5-5/dannyverkissen-101463/original.77b63edda6.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/dannyverkissen-101463",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
-  "slug": "theviableedge-869918",
-  "author": "TheViableEdge",
-  "author_url": "https://x.com/TheViableEdge",
-  "post_url": "https://x.com/TheViableEdge/status/2104207707980869918",
-  "category": "motion",
-  "tech_tags": [
-   "svg"
-  ],
-  "prompt": "Getting in on the Opus 5.5 motion graphics fun, truly impressive outcome for a fun one-shot experiment. \n\nIt used remotion (I also have hyperframe installed), which I think i'll try next. \n\nPrompt: \nmake a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, and can be the hero asset for the course landing page.",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/theviableedge-869918/original.c9d1db90de.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/theviableedge-869918",
   "added": "2026-09-29",
   "has_remake": true
  },
@@ -7860,23 +6174,6 @@
   "has_remake": true
  },
  {
-  "slug": "tequilafunks-127728",
-  "author": "tequilafunks",
-  "author_url": "https://x.com/tequilafunks",
-  "post_url": "https://x.com/tequilafunks/status/2103528644828127728",
-  "category": "motion",
-  "tech_tags": [
-   "threejs",
-   "canvas"
-  ],
-  "prompt": "Opus 5.5 + @Remotion \n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out\"",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/tequilafunks-127728/original.4a8067a2fd.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/tequilafunks-127728",
-  "added": "2026-09-29",
-  "has_remake": true
- },
- {
   "slug": "iammukeshm-421585",
   "author": "iammukeshm",
   "author_url": "https://x.com/iammukeshm",
@@ -8198,22 +6495,6 @@
   "has_remake": true
  },
  {
-  "slug": "justinbuilds-412401",
-  "author": "justinbuilds",
-  "author_url": "https://x.com/justinbuilds",
-  "post_url": "https://x.com/justinbuilds/status/2107655437969412401",
-  "category": "motion",
-  "tech_tags": [
-   "canvas"
-  ],
-  "prompt": "i had Opus 5.5 in @HyperFrames_ studio recreate this in one shot. voice from @ElevenLabs - not terrible - not great, but...  one shot...\n\n【作者补充制作说明】\n@HyperFrames_ @ElevenLabs @liu8in told you i'd share what i cooked up. here's something i tried with hyperframes studio and opus 5.5, one shot. curious what you'd have done differently?",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/justinbuilds-412401/original.e548e9c53f.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/justinbuilds-412401",
-  "added": "2026-10-08",
-  "has_remake": true
- },
- {
   "slug": "dheepanratnam-706454",
   "author": "Dheepanratnam",
   "author_url": "https://x.com/Dheepanratnam",
@@ -8247,40 +6528,6 @@
   "has_remake": true
  },
  {
-  "slug": "joaquimcassano-778239",
-  "author": "joaquimcassano",
-  "author_url": "https://x.com/joaquimcassano",
-  "post_url": "https://x.com/joaquimcassano/status/2107237736121778239",
-  "category": "motion",
-  "tech_tags": [
-   "svg",
-   "gsap"
-  ],
-  "prompt": "Feito em ~30 min com o HyperFrames Studio. \nA melhor UX que eu já tive com softwares de produção de vídeos com HTML. Realmente impressionante\n\n(Opus 5.5 High)\n#bolhadev",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/joaquimcassano-778239/original.aea1a84d8f.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/joaquimcassano-778239",
-  "added": "2026-10-08",
-  "has_remake": true
- },
- {
-  "slug": "kzmucx-402052",
-  "author": "kzmucx",
-  "author_url": "https://x.com/kzmucx",
-  "post_url": "https://x.com/kzmucx/status/2107225121123402052",
-  "category": "motion",
-  "tech_tags": [
-   "svg",
-   "gsap"
-  ],
-  "prompt": "This is what i have build using  @HyperFrames Studio  \n\none shot prompt by opus 5.5",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/kzmucx-402052/original.fc65f2a391.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/kzmucx-402052",
-  "added": "2026-10-08",
-  "has_remake": true
- },
- {
   "slug": "tankazunori0914-156748",
   "author": "tankazunori0914",
   "author_url": "https://x.com/tankazunori0914",
@@ -8293,39 +6540,6 @@
   "prompt_partial": true,
   "poster_url": "https://media.skillry.dev/opus-5-5/tankazunori0914-156748/original.00ba5c12f5.webp",
   "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/tankazunori0914-156748",
-  "added": "2026-10-08",
-  "has_remake": true
- },
- {
-  "slug": "liu8in-891423",
-  "author": "liu8in",
-  "author_url": "https://x.com/liu8in",
-  "post_url": "https://x.com/liu8in/status/2105750054908891423",
-  "category": "motion",
-  "tech_tags": [
-   "canvas",
-   "svg"
-  ],
-  "prompt": "from may 1st -> oct 1st, trending on github, again\n\nand every time, it's cuz the SOTA LLMs (& agents) getting better and better at Code2Video tasks\n\nopus 5.5 made this celebration video with just one prompt + access to our latest skills: https://github.com/heygen-com/hyperframes",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/liu8in-891423/original.ec2f870c14.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/liu8in-891423",
-  "added": "2026-10-08",
-  "has_remake": true
- },
- {
-  "slug": "ideavim-986785",
-  "author": "ideavim",
-  "author_url": "https://x.com/ideavim",
-  "post_url": "https://x.com/ideavim/status/2105231699407986785",
-  "category": "motion",
-  "tech_tags": [
-   "svg"
-  ],
-  "prompt": "This IdeaVim promo video was fully generated by Claude Opus 5.5 with the HyperFrames skill.\n\nTurned out pretty neat.",
-  "prompt_partial": true,
-  "poster_url": "https://media.skillry.dev/opus-5-5/ideavim-986785/original.abd241ccae.webp",
-  "skillry_url": "https://skillry.dev/ai-videos/opus-5-5/ideavim-986785",
   "added": "2026-10-08",
   "has_remake": true
  },
@@ -9064,21 +7278,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "softal-io-614622",
-  "title": "Motion Graphics Launch",
-  "author": "softal_io",
-  "author_url": "https://x.com/softal_io",
-  "post_url": "https://x.com/softal_io/status/2108574208548614622",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 15-30 second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.  \n\nIt should be a launch video for https://t.co/VOMwpsnr3w.\n\nExtra context: App Store link and app screenshots.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/softal-io-614622/poster.63618a93ed.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "thusatharan-433543",
   "title": "Golden Hour Manor Scene",
   "author": "Thusatharan",
@@ -9559,21 +7758,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "jacquelinedeel-837024",
-  "title": "Dynamic Launch",
-  "author": "JacquelineDeel",
-  "author_url": "https://x.com/JacquelineDeel",
-  "post_url": "https://x.com/JacquelineDeel/status/2107840008723837024",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 15-second motion graphics video that shows what my product can do. Go all out, like it's your showreel for a résumé.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/jacquelinedeel-837024/poster.5a82fb4c4e.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "okazaky-084783",
   "title": "Lyric MV 3D Engine Workflow",
   "author": "okazaky",
@@ -9694,21 +7878,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "indrajitsayshi-496841",
-  "title": "Superintelligence Cinematic Video",
-  "author": "indrajitsayshi",
-  "author_url": "https://x.com/indrajitsayshi",
-  "post_url": "https://x.com/indrajitsayshi/status/2107687675767496841",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "SUPERINTELLIGENCE-STYLE CINEMATIC VIDEO PROMPT\n\nROLE\nYou are a world-class motion designer and film editor. This video is your showreel, so go all out. Build it with HyperFrames (HTML + GSAP), using real footage, and render it to MP4.\n\nCONCEPT\nTopic: [Your topic, e.g.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/indrajitsayshi-496841/poster.cd456fceb7.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "incognitoprince-849212",
   "title": "After Effect Style Kinetic Text Explainer",
   "author": "IncognitoPrince",
@@ -9814,21 +7983,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "sankalpdomore-482100",
-  "title": "Dynamic Product Showreel Motion Graphics",
-  "author": "sankalpdomore",
-  "author_url": "https://x.com/sankalpdomore",
-  "post_url": "https://x.com/sankalpdomore/status/2107498302388482100",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Knowing everything you know about our product, make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. Go all out. Insane SFX, insane story, insane motion and transitions and effects. Extract each frame, listen to it and understand them fully.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/sankalpdomore-482100/poster.97651d4b55.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "rossaxbt-312793",
   "title": "Product Promo Motion",
   "author": "rossaxbt",
@@ -9869,36 +8023,6 @@
   "prompt": "Implement all scenes, interactions/camera motions, and shader effects 100% in Three.js code (excluding character models from Blender, background sky from GPT imgen, and BGM from Google flow). Create an anime style opening teaser.",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/rafiroutes-596199/poster.3d754542f2.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "johnjoubert-891005",
-  "title": "Dynamic Motion Graphics Showreel",
-  "author": "johnjoubert",
-  "author_url": "https://x.com/johnjoubert",
-  "post_url": "https://x.com/johnjoubert/status/2107427428775891005",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 15-second motion graphics video for Robotomail that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/johnjoubert-891005/poster.04a9a8042a.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "roxanalimban-214105",
-  "title": "Dynamic Feature Presentation Motion Graphics",
-  "author": "RoxanaLimban",
-  "author_url": "https://x.com/RoxanaLimban",
-  "post_url": "https://x.com/RoxanaLimban/status/2107409501389214105",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 15-second motion graphics video that presents this new feature. make it feel like you’re an incredible motion designer and this is your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/roxanalimban-214105/poster.2ca8682ed1.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -10084,21 +8208,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "varaaddurgaay-697602",
-  "title": "Motion Design Skill for Opus 5.5",
-  "author": "VaraadDurgaay",
-  "author_url": "https://x.com/VaraadDurgaay",
-  "post_url": "https://x.com/VaraadDurgaay/status/2107071383209697602",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "I built a motion design skill specifically for Opus 5.5 that turns generic motion into polished, product-quality visuals.\n\nThe goal: generic → distinctive, polished motion.\n\nWhat this skill does: \n→ Opus has to think before it animates. \n→ It decides what the film is for, what to take from the real  product, and what to leave out. \n→ It designs the still, then the move, in frames. \n→ It opens on the product, keeps the real UI on screen, and reviews the actual frames before it calls the film done.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/varaaddurgaay-697602/poster.8cbe158a41.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "ivysparkleai-543294",
   "title": "Music Video Generation from Song",
   "author": "IvySparkleAI",
@@ -10144,21 +8253,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "robj3d3-994822",
-  "title": "Product Roadmap Teaser Animation",
-  "author": "robj3d3",
-  "author_url": "https://x.com/robj3d3",
-  "post_url": "https://x.com/robj3d3/status/2107040421989994822",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "look at my product roadmap and make a dynamic 15-second motion graphics video that teases the next feature release. go all out and hold nothing back",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/robj3d3-994822/poster.4b9158803d.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "mouri45-575311",
   "title": "Meta VR Glasses Promo Variations",
   "author": "mouri45",
@@ -10199,51 +8293,6 @@
   "prompt": "SKILL.mdどおりに「仕事が速くなるGmailの機能5選」を作って。台本は5つの項目に構造化して、働きは公式ヘルプで確かめて、画像はコードで描いて、ゆっくり音声に合わせて秒単位で切り替えて",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/claudecode-ut-314769/poster.ce21da414d.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "anshitbansal21-316703",
-  "title": "Opus 5.5 Motion Graphics Video",
-  "author": "anshitbansal21",
-  "author_url": "https://x.com/anshitbansal21",
-  "post_url": "https://x.com/anshitbansal21/status/2106949358860316703",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\nMake it a video to introduce Twitter/X (https://t.co/C10DSRfBQz in the app store). Use actual product",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/anshitbansal21-316703/poster.793bf68b89.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "ericjingyang-663713",
-  "title": "Dynamic Product Launch Video",
-  "author": "ericjingyang",
-  "author_url": "https://x.com/ericjingyang",
-  "post_url": "https://x.com/ericjingyang/status/2106888733383663713",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 40-50 second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out. Must have music, and motion must match the music.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/ericjingyang-663713/poster.01c6039885.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "drake5112-655036",
-  "title": "Momotaro Story Video Creation with Opus 5.5",
-  "author": "Drake5112",
-  "author_url": "https://x.com/Drake5112",
-  "post_url": "https://x.com/Drake5112/status/2106868152122655036",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "日本昔話の桃太郎を5分のストーリー動画にして。イラストはブラウザのGeminiで作らせて、アニメはあなたが作って。ナレーションはGemini 3.8 TTS、BGMはSunoで作って挿入して。",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/drake5112-655036/poster.3eb39dd198.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -10459,21 +8508,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "grace-sunnyy-022677",
-  "title": "Dynamic Designer Portfolio Reel",
-  "author": "Grace_sunnyy",
-  "author_url": "https://x.com/Grace_sunnyy",
-  "post_url": "https://x.com/Grace_sunnyy/status/2106532575712022677",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "制作一段 15 秒的动态图形视频，展示你是一位多么出色的动态设计师，就像是你简历上的作品集一样，使用任何你认为能产出最佳效果的工具或技术。你拥有完全的创作自由，优先追求卓越的视觉设计、大胆的艺术指导、引人注目的构图和富有力量的动态表现，让每一秒都有价值。全力以赴。",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/grace-sunnyy-022677/poster.8f66001619.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "ivanainai-245918",
   "title": "Interactive Stained-Glass Hibiscus Art",
   "author": "ivanainai",
@@ -10624,21 +8658,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "kevintao1024-657708",
-  "title": "Product Promo Motion Design",
-  "author": "kevintao1024",
-  "author_url": "https://x.com/kevintao1024",
-  "post_url": "https://x.com/kevintao1024/status/2106304867438657708",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Create a 15-second promotional video for the product [https://t.co/HEjQ9JGT1T](https://t.co/HEjQ9JGT1T) that showcases your incredible motion design skills, as if it's your personal showreel for a résumé. Go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/kevintao1024-657708/poster.ea7bbb5e84.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "henrygsing-050247",
   "title": "Kurzgesagt Style Explainer Animation",
   "author": "HenrygSing",
@@ -10699,21 +8718,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "itzkashan2912-815858",
-  "title": "SellerShield Pro Showreel Prompt for Opus 5.5",
-  "author": "itzKashan2912",
-  "author_url": "https://x.com/itzKashan2912",
-  "post_url": "https://x.com/itzKashan2912/status/2106080380977815858",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 55-second motion graphics video for SellerShield Pro that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/itzkashan2912-815858/poster.c1d7d9ce28.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "aimevzulari-256293",
   "title": "Galileo Brachistochrone Animation",
   "author": "AIMevzulari",
@@ -10724,21 +8728,6 @@
   "prompt": "Bu herhangi bir görüntü üretim modeli kullanmadan, yaratıcı olarak yapabileceğin en iyi şekilde Canvas 2D ile animasyona çevir. Konu: Galileo 1638'de sorduğu Bir top A noktasından B'ye en hızlı hangi yoldan iner? sorusuna karşılık kendi çözümü olan Düz rampa en kısa yol ama en hızlısı değil! Galileo çember yayının daha hızlı olduğunu gösterdi. Asıl cevabı (cycloid) 1696'da Bernoulli buldu.",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/aimevzulari-256293/poster.a15f4aeeae.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "samuel-yostt-555412",
-  "title": "Dynamic Motion Graphics Showreel",
-  "author": "samuel_yostt",
-  "author_url": "https://x.com/samuel_yostt",
-  "post_url": "https://x.com/samuel_yostt/status/2106001321895555412",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out.\nThis video will be same styling as landing page.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/samuel-yostt-555412/poster.7beab39602.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -10829,36 +8818,6 @@
   "prompt": "クラウドのLinux環境にBlenderをPythonモジュールとして入れ、シーン構築からレンダーまで全部スクリプトで実行\nステージ、照明、紙吹雪、カメラワークをコードで組み、Cyclesで描画\nグロー、フラッシュ、色収差の後処理とMP4化まで自動\nBGMもサンプル素材なし。キック、スネア、ベース、シンセをnumpyのコードで合成\nダンスの腰の高さを解析し、本来のテンポが約137BPMと特定\n拍ごとにダンスの時間を補正して、全拍で沈み込みがキックと±0.5フレームで一致\nカット、照明、ズーム、質感の切り替えもすべて拍の頭に合わせ、最後の一撃で全員静止\nカメラはPythonで毎フレーム計算。急降下、回り込み、顔のアップから横に振り抜くカットなど\n拍の頭でクローム、ゴールド、ホログラム、ボクセルに質感とメッシュが変わる",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/oab10don-457273/poster.3b73be79a5.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "mahdif-132095",
-  "title": "Dynamic Showreel Motion Graphics",
-  "author": "mahdif",
-  "author_url": "https://x.com/mahdif",
-  "post_url": "https://x.com/mahdif/status/2105874608155132095",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Review my website [your site URL], and my portfolio with focus on the [Project A] and [Project B] case studies. Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. Go all out. Then make a 30-second, a 45-second and a 1-minute version of it. Don't just stretch it: the longer ones shouldn't feel rushed. Each longer version adds one more project: the 30-second adds [Project C], the 45-second adds [Project D] and the 1-minute adds [Project E]. Use [your music track] as the music and cut everything on its beat.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/mahdif-132095/poster.57ed54ca6e.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "ddryo-loos-925621",
-  "title": "Opus 5.5 Motion Graphics Promo",
-  "author": "ddryo_loos",
-  "author_url": "https://x.com/ddryo_loos",
-  "post_url": "https://x.com/ddryo_loos/status/2105824736072925621",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "「Lism CSS ver.1.0 をリリースする時にSNSに動画を投稿したい。あなたがどれほど素晴らしいモーションデザイナーかを示す、シンプルかつダイナミックさもある15秒のモーショングラフィックスビデオを作成してください。」",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/ddryo-loos-925621/poster.00830c3956.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -11029,36 +8988,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "miketromba-606919",
-  "title": "Opus 5.5 Brand Showreel",
-  "author": "miketromba",
-  "author_url": "https://x.com/miketromba",
-  "post_url": "https://x.com/miketromba/status/2105426459548606919",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 15-second motion graphics video for Cactal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. No tiny text in the video. All of our UIs of the entire application are available in Storybook so use our real UIs in the video.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/miketromba-606919/poster.0bd8159e3f.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "reyzostyle-542114",
-  "title": "Opus 5.5 Hyper Frame Motion Video",
-  "author": "reyzostyle",
-  "author_url": "https://x.com/reyzostyle",
-  "post_url": "https://x.com/reyzostyle/status/2105421514665542114",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 10 second motion graphics video about https://t.co/Zi6zrTvzqI that shows what an incredible motion designer you are, like its your showreel for a resume. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/reyzostyle-542114/poster.8435b3fcd9.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "chudry223-657142",
   "title": "Interactive Particle Effects Animation",
   "author": "chudry223",
@@ -11164,21 +9093,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "sslinnn-830625",
-  "title": "Opus 5.5 vs Sonnet 5.5 Motion Design",
-  "author": "_sslinNn",
-  "author_url": "https://x.com/_sslinNn",
-  "post_url": "https://x.com/_sslinNn/status/2105208251956830625",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "create a high-energy 15-second motion design \npiece for Paper Planes - treat it as  the showreel \nthat gets you hired as a motion designer. \ndon't hold back",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/sslinnn-830625/poster.5ec0c987e2.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "grace-sunnyy-486816",
   "title": "Solar System Explainer",
   "author": "Grace_sunnyy",
@@ -11224,21 +9138,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "ryoheiikeda-809280",
-  "title": "Dynamic Motion Graphics Reel",
-  "author": "ryoheiikeda",
-  "author_url": "https://x.com/ryoheiikeda",
-  "post_url": "https://x.com/ryoheiikeda/status/2105136634492809280",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "『あなたがどれほど素晴らしいモーションデザイナーかを示す、ダイナミックな15秒のモーショングラフィックスビデオを作成してください。私の情報を踏まえて。履歴書用のショーリールのような感じで、全力でやって。』",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/ryoheiikeda-809280/poster.437c4435cf.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "blueoctopusai-270222",
   "title": "Explainer Video Prompt for Opus 5.5",
   "author": "blueoctopusai",
@@ -11254,21 +9153,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "devius-maximus-887428",
-  "title": "Project Showreel Prompt for Opus 5.5",
-  "author": "Devius_Maximus",
-  "author_url": "https://x.com/Devius_Maximus",
-  "post_url": "https://x.com/Devius_Maximus/status/2105069053521887428",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic motion graphics video for our project dubz up, show what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/devius-maximus-887428/poster.d7c5932921.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "filicroval-168898",
   "title": "Voxel Capybara Hot Tub World",
   "author": "filicroval",
@@ -11279,21 +9163,6 @@
   "prompt": "make a 3D voxel world of a capybara in a hot tub boat drifting down a river. as good as you can",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/filicroval-168898/poster.a6fe149772.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "anthonywymond-335069",
-  "title": "Elite Motion Designer",
-  "author": "anthonywymond",
-  "author_url": "https://x.com/anthonywymond",
-  "post_url": "https://x.com/anthonywymond/status/2105044163209335069",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 15-20-second motion graphics showreel video for [Website] in our brand style that shows what an elite motion designer you are. Do your thing, make it insanely good.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/anthonywymond-335069/poster.2630098837.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -11374,21 +9243,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "murph-2-394445",
-  "title": "Opus vs Sonnet Product Promo Video",
-  "author": "Murph_2",
-  "author_url": "https://x.com/Murph_2",
-  "post_url": "https://x.com/Murph_2/status/2105006622334394445",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic million-dollar motion graphics video for https://t.co/ygsdMdfDFV that shows what an incredible motion designer you are, like it's your showreel for a résumé. Go all out.\n\nIt must be grounded in functional reality. Every screen, label, and flow in the video must be something the product actually does today. Read the repo before designing anything.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/murph-2-394445/poster.3d9d4ff558.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "adomicael-707503",
   "title": "Interactive AI Data Flow Explainer Animation",
   "author": "adomicael",
@@ -11464,21 +9318,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "gptaku-622525",
-  "title": "Professional Showreel Motion Graphics",
-  "author": "GPTaku",
-  "author_url": "https://x.com/GPTaku",
-  "post_url": "https://x.com/GPTaku/status/2104911611798622525",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Make it a video to introduce `https://t.co/Ayf4rIphdr` 1. Use actual product screenshot/logo/assts 2. must have music and motion must match the music. Do it like a real professional production video, not like a demo or prototype.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/gptaku-622525/poster.044af1216f.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "sportyblocks-320796",
   "title": "SportyBlocks Launch Video",
   "author": "sportyblocks",
@@ -11504,21 +9343,6 @@
   "prompt": "Create an interactive AI film titled 'The Humanity Machine'. 60 seconds, single HTML file. The film ends but the world stays with controls. Push AI capability to 100% causing parts of the world to turn red.",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/curieuxexplorer-320803/poster.d101e4b29b.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "maxescu-962277",
-  "title": "Printing Press History Explainer",
-  "author": "maxescu",
-  "author_url": "https://x.com/maxescu",
-  "post_url": "https://x.com/maxescu/status/2104898184442962277",
-  "category": "explainer",
-  "tech_tags": [],
-  "prompt": "[Task]\nCreate a 60-second motion-graphic explainer video on the history of the printing press, from its origins to the present day.\n\n[Roles]\n- Higgsfield: creates every image in the video (still images only).\n- You: create all motion graphics and animation.\n\n[Style]\nNewspaper cutouts with mixed-media collage, highly polished: layered paper cutouts, torn edges, halftone textures, soft shadows, and bold editorial typography.\n\n[Rules]\n- Keep every fact and date accurate.\n- No text inside the Higgsfield images. Add all text yourself as animated typography.\n- Keep the look consistent across every scene.\n- End on the opening frame so the video loops. Never end on a hard cut.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/maxescu-962277/poster.e0b01b9bd4.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -11614,21 +9438,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "influencer-seo-026936",
-  "title": "Fal AI Motion Designer Showreel",
-  "author": "influencer_seo",
-  "author_url": "https://x.com/influencer_seo",
-  "post_url": "https://x.com/influencer_seo/status/2104827314400026936",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 15-second motion graphics video for @fal that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. Use the fal API.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/influencer-seo-026936/poster.1f469f5fdb.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "apoorvjain25-945542",
   "title": "Photon Journey Remotion Animation",
   "author": "apoorvjain25",
@@ -11684,21 +9493,6 @@
   "prompt": "Turn a 2025 neuroscience study about strangers' brain reactions to movies growing closer into a 60-second film and interactive lab. One HTML file.",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/curieuxexplorer-590917/poster.3bf8afe744.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "zarvxbt-587026",
-  "title": "Opus 5.5 Motion Graphics Showreel",
-  "author": "zarvxbt",
-  "author_url": "https://x.com/zarvxbt",
-  "post_url": "https://x.com/zarvxbt/status/2104798646533587026",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 30-second motion graphics video that introduces me, like a showreel for a résumé. Go all out.\n\nWho I am: [name] / [x handle + link]. [one line on what you do]. Known for: [3-5 things you built or do].\n\nAssets: I've attached my pfp/logo and [screenshots / demo clips]",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/zarvxbt-587026/poster.0135c8fadf.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -11884,21 +9678,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "utopyaszx-624771",
-  "title": "Bold Pilot Showreel Motion Graphics",
-  "author": "utopyaszx",
-  "author_url": "https://x.com/utopyaszx",
-  "post_url": "https://x.com/utopyaszx/status/2104665591428624771",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 15-second motion graphics video for Bold Pilot that shows what an incredible motion designer you are, like it's your showreel for a resume. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/utopyaszx-624771/poster.776f43b3cb.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "dotey-773568",
   "title": "Manus Alchemy Motion Design Showreel",
   "author": "dotey",
@@ -11989,21 +9768,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "math-files-610052",
-  "title": "Mathematics Themed Motion Graphics",
-  "author": "Math_files",
-  "author_url": "https://x.com/Math_files",
-  "post_url": "https://x.com/Math_files/status/2104486181853610052",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 20-second motion graphics video related to mathematics that shows what an incredible motion designer with mathematics skills you are, like it's your showreel for a résumé. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/math-files-610052/poster.a78be075ac.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "niebin-gg-621849",
   "title": "Opus 5.5 UI Motion Loop",
   "author": "niebin_gg",
@@ -12029,21 +9793,6 @@
   "prompt": "make a dynamic 15-second motion graphics video to talk about our referral program",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/paulo-kombucha-283883/poster.2e31bd3a93.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "0xnachione-906982",
-  "title": "Dynamic Motion Graphics Showreel Video",
-  "author": "0xNachione",
-  "author_url": "https://x.com/0xNachione",
-  "post_url": "https://x.com/0xNachione/status/2104474405388906982",
-  "category": "explainer",
-  "tech_tags": [],
-  "prompt": "make a dynamic 30-second motion graphics video that shows how DecorViz works, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/0xnachione-906982/poster.4521a8d6a3.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -12304,21 +10053,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "brankotrcek-510711",
-  "title": "Motion Design Showreel",
-  "author": "Brankotrcek",
-  "author_url": "https://x.com/Brankotrcek",
-  "post_url": "https://x.com/Brankotrcek/status/2104229998047510711",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Create a dynamic 15-second motion graphics video that demonstrates advanced motion design skills, in the style of a professional portfolio showreel. Aim for high production quality and a wide range of techniques.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/brankotrcek-510711/poster.b182b9dbbf.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "henkpoley-761980",
   "title": "Terrible Motion Designer Showreel Animation",
   "author": "HenkPoley",
@@ -12424,21 +10158,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "agonaliu-326227",
-  "title": "Trezio App Motion Graphics Showreel",
-  "author": "agonaliu_",
-  "author_url": "https://x.com/agonaliu_",
-  "post_url": "https://x.com/agonaliu_/status/2104117465475326227",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 15-second motion graphics video for Trezio app that shows what an incredible motion designer you are, like it's your showreel for a résumé. Get it!",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/agonaliu-326227/poster.38ab144415.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "koldo2k-741714",
   "title": "Color Wheel Motion Graphics",
   "author": "koldo2k",
@@ -12514,21 +10233,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "topi-003-592443",
-  "title": "Dynamic Motion Graphics Showreel",
-  "author": "_topi_003",
-  "author_url": "https://x.com/_topi_003",
-  "post_url": "https://x.com/_topi_003/status/2104086342204592443",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Create a dynamic 15-second motion graphics video that shows how amazing of a motion designer you are. It should feel like a showreel for a resume, go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/topi-003-592443/poster.cb6c2ee713.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "op7418-021491",
   "title": "Mobile Game Highlight Reel Motion Design",
   "author": "op7418",
@@ -12539,51 +10243,6 @@
   "prompt": "帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。\n做成一个可以直接打开的单文件网页（HTML + CSS + JS），点一下就能完整播放，效果对标商业手游的结算 / 奖励演出。\n\n【世界观与风格】\n- 原创美术，不要模仿任何现有游戏的",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/op7418-021491/poster.69b6dd2243.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "marcelfahle-249018",
-  "title": "Bold Video SaaS Launch Animation",
-  "author": "marcelfahle",
-  "author_url": "https://x.com/marcelfahle",
-  "post_url": "https://x.com/marcelfahle/status/2104084126068249018",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "Make a dynamic 20-second motion graphics video that shows what an incredible\nmotion designer you are, like it's your showreel for a résumé. Go all out.\n\nIt should be a SaaS launch video for Bold Video, working hand in hand with the new landing page copy on https://t.co/ByqYMNJ1DF. Show the flexibility of the chat and the implementations across our customers' frontends (they live in tenant branches of our starter).\n\nIt's important that Bold truly knows and understands the content, cites correctly, doesn't fucking hallucinate, is flexible, and knows who's asking.\n\nI also want to highlight that it's headless: you can make it truly yours. On brand, on everything.\n\n[attached: 10 brand posters + a Claude Design artboard]",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/marcelfahle-249018/poster.7ff430971d.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "bob-zaimu-006606",
-  "title": "Opus 5.5 HyperFrames Director",
-  "author": "Bob_zaimu",
-  "author_url": "https://x.com/Bob_zaimu",
-  "post_url": "https://x.com/Bob_zaimu/status/2104081236881006606",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "あなたは告知動画のディレクターです。HyperFrames（npx hyperframes）で、30秒・1920×1080・ナレーションなしの告知動画を、私と会話しながら作ってください。\n\n■進め方\n1.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/bob-zaimu-006606/poster.418658ed7a.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "lemomo-ai-242622",
-  "title": "Lemo-Opuscar Tutorial Video",
-  "author": "lemomo_ai",
-  "author_url": "https://x.com/lemomo_ai",
-  "post_url": "https://x.com/lemomo_ai/status/2104070024575242622",
-  "category": "explainer",
-  "tech_tags": [],
-  "prompt": "Create a tutorial video explaining how to create videos using Lemo-Opuscar skill (Opus 5.5) , in a [Whiteboard Explainer] style.  One prompt, one answer, then ship film.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/lemomo-ai-242622/poster.0b354243eb.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -12659,21 +10318,6 @@
   "prompt": "帮我用js制作一个视频，主题是：什么是Git\n要深入浅出，让一个计算机0基础的人也能看得懂，然后要介绍一些常用指令的意思等等\n要有声音的，然后是中文讲的\n你可以用任何工具或者安装工具，可以联网检索",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/yunn260414-016888/poster.cdf9a943e0.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "en-ra-986980",
-  "title": "RedSeed AI Motion Graphics",
-  "author": "en______ra",
-  "author_url": "https://x.com/en______ra",
-  "post_url": "https://x.com/en______ra/status/2104035188061986980",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 15-second motion graphics video for RedSeed AI (Replace with your Project) that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/en-ra-986980/poster.b1ce1fee8f.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -12769,21 +10413,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "nathankochera-114905",
-  "title": "Future World Animated",
-  "author": "nathankochera",
-  "author_url": "https://x.com/nathankochera",
-  "post_url": "https://x.com/nathankochera/status/2103981834724114905",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a 30-second animated video that shows what an incredible designer you are, like it's your showreel for a résumé. go all out.\n\nthe video should show where you think the world will be in 20 years from now given the rapid pace of development of AI and robotics",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/nathankochera-114905/poster.a9e4f8af86.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "dotey-927166",
   "title": "Epic History Chronology",
   "author": "dotey",
@@ -12844,21 +10473,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "ibrahimwasim240-940763",
-  "title": "Personal Skills Showreel",
-  "author": "ibrahimwasim240",
-  "author_url": "https://x.com/ibrahimwasim240",
-  "post_url": "https://x.com/ibrahimwasim240/status/2103943233432940763",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 25 second motion graphics video that shows My skills like a showreel for a resume. go all out",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/ibrahimwasim240-940763/poster.c413b142ac.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "fractadev-861266",
   "title": "SaaS Product Launch Motion Graphics",
   "author": "FractaDev",
@@ -12869,21 +10483,6 @@
   "prompt": "Analyze my frontend project, use the actual components from the product, and create a dynamic motion graphics video that showcases and sells my SaaS. Make it feel like a high-end product launch. Go all out.",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/fractadev-861266/poster.a65d512591.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "jacksonfall-229164",
-  "title": "Startup Branding Agency Showreel",
-  "author": "jacksonfall",
-  "author_url": "https://x.com/jacksonfall",
-  "post_url": "https://x.com/jacksonfall/status/2103925420211229164",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are,  create all graphics from scratch as if you were a niche branding agency for startup founders, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/jacksonfall-229164/poster.20c2ea684a.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -13144,21 +10743,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "linearuncle-331442",
-  "title": "Nyc tourism promo video",
-  "author": "LinearUncle",
-  "author_url": "https://x.com/LinearUncle",
-  "post_url": "https://x.com/LinearUncle/status/2103705625075331442",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "给我制作一个介绍纽约的视频，视频素材和背景音全部找商用免费的平台, 配音请使用edge-tts，选择男音，字幕和声音都是中文，时长５分钟左右，这个视频将用来吸引新加坡人去纽约旅游",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/linearuncle-331442/poster.4bf4263cba.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "tdinh-me-301409",
   "title": "TypingMind Logo Reveal Motion Design",
   "author": "tdinh_me",
@@ -13249,21 +10833,6 @@
   "added": "2026-10-12"
  },
  {
-  "slug": "chrisjdimarco-960779",
-  "title": "Democracy Theme Motion Graphics",
-  "author": "chrisjdimarco",
-  "author_url": "https://x.com/chrisjdimarco",
-  "post_url": "https://x.com/chrisjdimarco/status/2103606501159960779",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 60-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out. and make the theme and content be about the importance of an informed public in a democracy, the importance of not having",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/chrisjdimarco-960779/poster.323ce04582.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
   "slug": "0xvalure-354245",
   "title": "PayBox Logo Motion Design",
   "author": "0xValure",
@@ -13304,21 +10873,6 @@
   "prompt": "Analyze https://t.co/gVJcJyZnZl and build a product promo from our own UI, not generic components.\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. A cursor drives every change with real clicks and drags. Light warm-gray canvas, black and white components, one clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills the frame. The last frame is the first frame, so it loops.\nBanned: bouncy easing, particle bursts, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.\n</direction>",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/annacher-152174/poster.18838db89e.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "ismailfahmi-466403",
-  "title": "Brand Showreel",
-  "author": "ismailfahmi",
-  "author_url": "https://x.com/ismailfahmi",
-  "post_url": "https://x.com/ismailfahmi/status/2103557833153466403",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible media intelligent Drone Emprit is, like it's our showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/ismailfahmi-466403/poster.0de0fc5812.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
@@ -13769,21 +11323,6 @@
   "prompt": "Create a 37-second vertical short film (1080×1920, 30 fps) in three.js, titled \"White Space\".\n\n【Experience】\nWithout showing a single human figure, let viewers physically feel how a life consumed by efficiency loses its light — and how a single empty space lets a richer light pour back in. The climax should make people hold their breath: a world-class stained glass image of the Virgin and two angels projected across a cathedral floor in blazing color.\n\n【Setting】\n- A dim Gothic cathedral interior with one lancet window, 15 m tall and 10 m wide.\n- Strong sunlight enters from outside at 45°, casting the window's image onto the stone floor.\n- Stained glass: an original, symmetric composition in the tradition of 13th-century French cathedral glass — never copy an existing window.\n\n【Stained glass quality bar】\nAim for the level of Chartres or Sainte-Chapelle:\n- Hundreds of small glass pieces, each with its own color variation, streaks, and seed bubbles\n- Grisaille painting on the glass: serene faces with painted eyelids, brows and lips; drapery folds with soft shading; every feather painted with a rachis and barbs\n- Edge matting so each piece glows brighter at its center\n- A deep blue diaper background with ruby rosettes, a jeweled border of alternating colors and pearls\n- The Virgin in a ruby niche under a pointed Gothic arch with crockets, columns and capitals, gold rays radiating behind her halo\n- A multi-ring rose window at the top with stone-like tracery and jewel roundels\n\n【Timeline】\n0–3 s: Colorless white light fills the cathedral.\n3–11 s: Gray cubes engraved with words fly in faster and faster, sealing the window. The room darkens.\n11–14 s: Total darkness and silence.\n14–19 s: Only the \"BUSY\" block falls away, dissolving into sparks. One golden beam enters.\n19–26 s: Blocks cascade away from the first hole. Colored light shafts multiply; the glass is revealed.\n26–33 s: The camera spirals up through the shafts to look down on the Virgin and angels glowing across the floor.\n33–37 s: Everything is engulfed in radiant light; the final line appears, then dissolves into white.\n\n【Words on the blocks】\nBUSY, URGENT, ASAP, DEADLINE, KPI, MEETING, OVERTIME, OPTIMIZE, EFFICIENCY, INBOX, FASTER, TO-DO, SPRINT, TARGETS, HUSTLE, REPLY ALL, EOD, METRICS, SCALE, GRIND, RUSH, PING, FOLLOW-UP, MULTITASK, NOW\n\n【On-screen text (elegant serif, appearing and fading quietly)】\n\"Every day, faster.\"\n\"Every day, more efficient.\"\n\"Until the light could no longer get in.\"\n\"Let one thing go.\"\n\"Where there is space, light comes in.\"\n\"And the light was richer than before.\"\nFinal: \"Abundance dwells / in white space.\"\n\n【Music and sound (original, synthesized)】\n- 0–11 s: A ticking clock that accelerates; a dull thud each time a block lands; a low drone rising in tension\n- 11–14 s: Silence\n- 14.8 s: A single crystalline bell as the first beam enters\n- 19–33 s: A soft chime for each falling block, blooming into an ethereal choir-like pad with a slo",
   "prompt_partial": false,
   "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/agioyaz-397647/poster.340f607e45.webp",
-  "skillry_url": null,
-  "has_remake": false,
-  "added": "2026-10-12"
- },
- {
-  "slug": "ho4444no-962130",
-  "title": "Opus 5.5 vs GPT-6 Astra Motion Reel",
-  "author": "ho4444no",
-  "author_url": "https://x.com/ho4444no",
-  "post_url": "https://x.com/ho4444no/status/2103151003272962130",
-  "category": "motion",
-  "tech_tags": [],
-  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-  "prompt_partial": false,
-  "poster_url": "https://media.skillry.dev/opus-5-5/_prompts/ho4444no-962130/poster.ab1399975e.webp",
   "skillry_url": null,
   "has_remake": false,
   "added": "2026-10-12"
